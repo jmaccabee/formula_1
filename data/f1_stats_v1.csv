@@ -1,0 +1,1739 @@
+Pos,No,Driver,Car,Laps,Time/Retired,PTS,race_id,race_date
+1,1,Max  Verstappen  VER,Red Bull Racing Honda RBPT,50,1:20:43.273,25,1230,2024-03-09
+2,11,Sergio  Perez  PER,Red Bull Racing Honda RBPT,50,+13.643s,18,1230,2024-03-09
+3,16,Charles  Leclerc  LEC,Ferrari,50,+18.639s,16,1230,2024-03-09
+4,81,Oscar  Piastri  PIA,McLaren Mercedes,50,+32.007s,12,1230,2024-03-09
+5,14,Fernando  Alonso  ALO,Aston Martin Aramco Mercedes,50,+35.759s,10,1230,2024-03-09
+6,63,George  Russell  RUS,Mercedes,50,+39.936s,8,1230,2024-03-09
+7,38,Oliver  Bearman  BEA,Ferrari,50,+42.679s,6,1230,2024-03-09
+8,4,Lando  Norris  NOR,McLaren Mercedes,50,+45.708s,4,1230,2024-03-09
+9,44,Lewis  Hamilton  HAM,Mercedes,50,+47.391s,2,1230,2024-03-09
+10,27,Nico  Hulkenberg  HUL,Haas Ferrari,50,+76.996s,1,1230,2024-03-09
+11,23,Alexander  Albon  ALB,Williams Mercedes,50,+88.354s,0,1230,2024-03-09
+12,20,Kevin  Magnussen  MAG,Haas Ferrari,50,+105.737s,0,1230,2024-03-09
+13,31,Esteban  Ocon  OCO,Alpine Renault,49,+1 lap,0,1230,2024-03-09
+14,2,Logan  Sargeant  SAR,Williams Mercedes,49,+1 lap,0,1230,2024-03-09
+15,22,Yuki  Tsunoda  TSU,RB Honda RBPT,49,+1 lap,0,1230,2024-03-09
+16,3,Daniel  Ricciardo  RIC,RB Honda RBPT,49,+1 lap,0,1230,2024-03-09
+17,77,Valtteri  Bottas  BOT,Kick Sauber Ferrari,49,+1 lap,0,1230,2024-03-09
+18,24,Zhou  Guanyu  ZHO,Kick Sauber Ferrari,49,+1 lap,0,1230,2024-03-09
+,18,Lance  Stroll  STR,Aston Martin Aramco Mercedes,5,DNF,0,1230,2024-03-09
+,10,Pierre  Gasly  GAS,Alpine Renault,1,DNF,0,1230,2024-03-09
+1,1,Max  Verstappen  VER,Red Bull Racing Honda RBPT,57,1:31:44.742,26,1229,2024-03-02
+2,11,Sergio  Perez  PER,Red Bull Racing Honda RBPT,57,+22.457s,18,1229,2024-03-02
+3,55,Carlos  Sainz  SAI,Ferrari,57,+25.110s,15,1229,2024-03-02
+4,16,Charles  Leclerc  LEC,Ferrari,57,+39.669s,12,1229,2024-03-02
+5,63,George  Russell  RUS,Mercedes,57,+46.788s,10,1229,2024-03-02
+6,4,Lando  Norris  NOR,McLaren Mercedes,57,+48.458s,8,1229,2024-03-02
+7,44,Lewis  Hamilton  HAM,Mercedes,57,+50.324s,6,1229,2024-03-02
+8,81,Oscar  Piastri  PIA,McLaren Mercedes,57,+56.082s,4,1229,2024-03-02
+9,14,Fernando  Alonso  ALO,Aston Martin Aramco Mercedes,57,+74.887s,2,1229,2024-03-02
+10,18,Lance  Stroll  STR,Aston Martin Aramco Mercedes,57,+93.216s,1,1229,2024-03-02
+11,24,Zhou  Guanyu  ZHO,Kick Sauber Ferrari,56,+1 lap,0,1229,2024-03-02
+12,20,Kevin  Magnussen  MAG,Haas Ferrari,56,+1 lap,0,1229,2024-03-02
+13,3,Daniel  Ricciardo  RIC,RB Honda RBPT,56,+1 lap,0,1229,2024-03-02
+14,22,Yuki  Tsunoda  TSU,RB Honda RBPT,56,+1 lap,0,1229,2024-03-02
+15,23,Alexander  Albon  ALB,Williams Mercedes,56,+1 lap,0,1229,2024-03-02
+16,27,Nico  Hulkenberg  HUL,Haas Ferrari,56,+1 lap,0,1229,2024-03-02
+17,31,Esteban  Ocon  OCO,Alpine Renault,56,+1 lap,0,1229,2024-03-02
+18,10,Pierre  Gasly  GAS,Alpine Renault,56,+1 lap,0,1229,2024-03-02
+19,77,Valtteri  Bottas  BOT,Kick Sauber Ferrari,56,+1 lap,0,1229,2024-03-02
+20,2,Logan  Sargeant  SAR,Williams Mercedes,55,+2 laps,0,1229,2024-03-02
+1,1,Max  Verstappen  VER,Red Bull Racing Honda RBPT,53,1:54:23.566,26,1232,2024-04-07
+2,11,Sergio  Perez  PER,Red Bull Racing Honda RBPT,53,+12.535s,18,1232,2024-04-07
+3,55,Carlos  Sainz  SAI,Ferrari,53,+20.866s,15,1232,2024-04-07
+4,16,Charles  Leclerc  LEC,Ferrari,53,+26.522s,12,1232,2024-04-07
+5,4,Lando  Norris  NOR,McLaren Mercedes,53,+29.700s,10,1232,2024-04-07
+6,14,Fernando  Alonso  ALO,Aston Martin Aramco Mercedes,53,+44.272s,8,1232,2024-04-07
+7,63,George  Russell  RUS,Mercedes,53,+45.951s,6,1232,2024-04-07
+8,81,Oscar  Piastri  PIA,McLaren Mercedes,53,+47.525s,4,1232,2024-04-07
+9,44,Lewis  Hamilton  HAM,Mercedes,53,+48.626s,2,1232,2024-04-07
+10,22,Yuki  Tsunoda  TSU,RB Honda RBPT,52,+1 lap,1,1232,2024-04-07
+11,27,Nico  Hulkenberg  HUL,Haas Ferrari,52,+1 lap,0,1232,2024-04-07
+12,18,Lance  Stroll  STR,Aston Martin Aramco Mercedes,52,+1 lap,0,1232,2024-04-07
+13,20,Kevin  Magnussen  MAG,Haas Ferrari,52,+1 lap,0,1232,2024-04-07
+14,77,Valtteri  Bottas  BOT,Kick Sauber Ferrari,52,+1 lap,0,1232,2024-04-07
+15,31,Esteban  Ocon  OCO,Alpine Renault,52,+1 lap,0,1232,2024-04-07
+16,10,Pierre  Gasly  GAS,Alpine Renault,52,+1 lap,0,1232,2024-04-07
+17,2,Logan  Sargeant  SAR,Williams Mercedes,52,+1 lap,0,1232,2024-04-07
+,24,Zhou  Guanyu  ZHO,Kick Sauber Ferrari,12,DNF,0,1232,2024-04-07
+,3,Daniel  Ricciardo  RIC,RB Honda RBPT,0,DNF,0,1232,2024-04-07
+,23,Alexander  Albon  ALB,Williams Mercedes,0,DNF,0,1232,2024-04-07
+1,55,Carlos  Sainz  SAI,Ferrari,58,1:20:26.843,25,1231,2024-03-24
+2,16,Charles  Leclerc  LEC,Ferrari,58,+2.366s,19,1231,2024-03-24
+3,4,Lando  Norris  NOR,McLaren Mercedes,58,+5.904s,15,1231,2024-03-24
+4,81,Oscar  Piastri  PIA,McLaren Mercedes,58,+35.770s,12,1231,2024-03-24
+5,11,Sergio  Perez  PER,Red Bull Racing Honda RBPT,58,+56.309s,10,1231,2024-03-24
+6,18,Lance  Stroll  STR,Aston Martin Aramco Mercedes,58,+93.222s,8,1231,2024-03-24
+7,22,Yuki  Tsunoda  TSU,RB Honda RBPT,58,+95.601s,6,1231,2024-03-24
+8,14,Fernando  Alonso  ALO,Aston Martin Aramco Mercedes,58,+100.992s,4,1231,2024-03-24
+9,27,Nico  Hulkenberg  HUL,Haas Ferrari,58,+104.553s,2,1231,2024-03-24
+10,20,Kevin  Magnussen  MAG,Haas Ferrari,57,+1 lap,1,1231,2024-03-24
+11,23,Alexander  Albon  ALB,Williams Mercedes,57,+1 lap,0,1231,2024-03-24
+12,3,Daniel  Ricciardo  RIC,RB Honda RBPT,57,+1 lap,0,1231,2024-03-24
+13,10,Pierre  Gasly  GAS,Alpine Renault,57,+1 lap,0,1231,2024-03-24
+14,77,Valtteri  Bottas  BOT,Kick Sauber Ferrari,57,+1 lap,0,1231,2024-03-24
+15,24,Zhou  Guanyu  ZHO,Kick Sauber Ferrari,57,+1 lap,0,1231,2024-03-24
+16,31,Esteban  Ocon  OCO,Alpine Renault,57,+1 lap,0,1231,2024-03-24
+17,63,George  Russell  RUS,Mercedes,56,DNF,0,1231,2024-03-24
+,44,Lewis  Hamilton  HAM,Mercedes,15,DNF,0,1231,2024-03-24
+,1,Max  Verstappen  VER,Red Bull Racing Honda RBPT,3,DNF,0,1231,2024-03-24
+1,1,Max  Verstappen  VER,Red Bull Racing Honda RBPT,56,1:35:21.362,25,1222,2023-10-22
+DQ,44,Lewis  Hamilton  HAM,Mercedes,56,+2.225s,0,1222,2023-10-22
+2,4,Lando  Norris  NOR,McLaren Mercedes,56,+10.730s,18,1222,2023-10-22
+3,55,Carlos  Sainz  SAI,Ferrari,56,+15.134s,15,1222,2023-10-22
+4,11,Sergio  Perez  PER,Red Bull Racing Honda RBPT,56,+18.460s,12,1222,2023-10-22
+DQ,16,Charles  Leclerc  LEC,Ferrari,56,+24.662s,0,1222,2023-10-22
+5,63,George  Russell  RUS,Mercedes,56,+24.999s,10,1222,2023-10-22
+6,10,Pierre  Gasly  GAS,Alpine Renault,56,+47.996s,8,1222,2023-10-22
+7,18,Lance  Stroll  STR,Aston Martin Aramco Mercedes,56,+48.696s,6,1222,2023-10-22
+8,22,Yuki  Tsunoda  TSU,AlphaTauri Honda RBPT,56,+74.385s,5,1222,2023-10-22
+9,23,Alexander  Albon  ALB,Williams Mercedes,56,+86.714s,2,1222,2023-10-22
+10,2,Logan  Sargeant  SAR,Williams Mercedes,56,+87.998s,1,1222,2023-10-22
+11,27,Nico  Hulkenberg  HUL,Haas Ferrari,56,+89.904s,0,1222,2023-10-22
+12,77,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,56,+98.601s,0,1222,2023-10-22
+13,24,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,55,+1 lap,0,1222,2023-10-22
+14,20,Kevin  Magnussen  MAG,Haas Ferrari,55,+1 lap,0,1222,2023-10-22
+15,3,Daniel  Ricciardo  RIC,AlphaTauri Honda RBPT,55,+1 lap,0,1222,2023-10-22
+,14,Fernando  Alonso  ALO,Aston Martin Aramco Mercedes,49,DNF,0,1222,2023-10-22
+,81,Oscar  Piastri  PIA,McLaren Mercedes,10,DNF,0,1222,2023-10-22
+,31,Esteban  Ocon  OCO,Alpine Renault,6,DNF,0,1222,2023-10-22
+1,1,Max  Verstappen  VER,Red Bull Racing Honda RBPT,58,2:32:38.371,25,1143,2023-04-02
+2,44,Lewis  Hamilton  HAM,Mercedes,58,+0.179s,18,1143,2023-04-02
+3,14,Fernando  Alonso  ALO,Aston Martin Aramco Mercedes,58,+0.769s,15,1143,2023-04-02
+4,18,Lance  Stroll  STR,Aston Martin Aramco Mercedes,58,+3.082s,12,1143,2023-04-02
+5,11,Sergio  Perez  PER,Red Bull Racing Honda RBPT,58,+3.320s,11,1143,2023-04-02
+6,4,Lando  Norris  NOR,McLaren Mercedes,58,+3.701s,8,1143,2023-04-02
+7,27,Nico  Hulkenberg  HUL,Haas Ferrari,58,+4.939s,6,1143,2023-04-02
+8,81,Oscar  Piastri  PIA,McLaren Mercedes,58,+5.382s,4,1143,2023-04-02
+9,24,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,58,+5.713s,2,1143,2023-04-02
+10,22,Yuki  Tsunoda  TSU,AlphaTauri Honda RBPT,58,+6.052s,1,1143,2023-04-02
+11,77,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,58,+6.513s,0,1143,2023-04-02
+12,55,Carlos  Sainz  SAI,Ferrari,58,+6.594s,0,1143,2023-04-02
+13,10,Pierre  Gasly  GAS,Alpine Renault,56,DNF,0,1143,2023-04-02
+14,31,Esteban  Ocon  OCO,Alpine Renault,56,DNF,0,1143,2023-04-02
+15,21,Nyck  De Vries  DEV,AlphaTauri Honda RBPT,56,DNF,0,1143,2023-04-02
+16,2,Logan  Sargeant  SAR,Williams Mercedes,56,DNF,0,1143,2023-04-02
+17,20,Kevin  Magnussen  MAG,Haas Ferrari,52,DNF,0,1143,2023-04-02
+,63,George  Russell  RUS,Mercedes,17,DNF,0,1143,2023-04-02
+,23,Alexander  Albon  ALB,Williams Mercedes,6,DNF,0,1143,2023-04-02
+,16,Charles  Leclerc  LEC,Ferrari,0,DNF,0,1143,2023-04-02
+1,1,Max  Verstappen  VER,Red Bull Racing Honda RBPT,71,1:25:33.607,26,1213,2023-07-02
+2,16,Charles  Leclerc  LEC,Ferrari,71,+5.155s,18,1213,2023-07-02
+3,11,Sergio  Perez  PER,Red Bull Racing Honda RBPT,71,+17.188s,15,1213,2023-07-02
+4,4,Lando  Norris  NOR,McLaren Mercedes,71,+26.327s,12,1213,2023-07-02
+5,14,Fernando  Alonso  ALO,Aston Martin Aramco Mercedes,71,+30.317s,10,1213,2023-07-02
+6,55,Carlos  Sainz  SAI,Ferrari,71,+31.377s,8,1213,2023-07-02
+7,63,George  Russell  RUS,Mercedes,71,+48.403s,6,1213,2023-07-02
+8,44,Lewis  Hamilton  HAM,Mercedes,71,+49.196s,4,1213,2023-07-02
+9,18,Lance  Stroll  STR,Aston Martin Aramco Mercedes,71,+59.043s,2,1213,2023-07-02
+10,10,Pierre  Gasly  GAS,Alpine Renault,71,+67.667s,1,1213,2023-07-02
+11,23,Alexander  Albon  ALB,Williams Mercedes,71,+79.767s,0,1213,2023-07-02
+12,24,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,70,+1 lap,0,1213,2023-07-02
+13,2,Logan  Sargeant  SAR,Williams Mercedes,70,+1 lap,0,1213,2023-07-02
+14,31,Esteban  Ocon  OCO,Alpine Renault,70,+1 lap,0,1213,2023-07-02
+15,77,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,70,+1 lap,0,1213,2023-07-02
+16,81,Oscar  Piastri  PIA,McLaren Mercedes,70,+1 lap,0,1213,2023-07-02
+17,21,Nyck  De Vries  DEV,AlphaTauri Honda RBPT,70,+1 lap,0,1213,2023-07-02
+18,20,Kevin  Magnussen  MAG,Haas Ferrari,70,+1 lap,0,1213,2023-07-02
+19,22,Yuki  Tsunoda  TSU,AlphaTauri Honda RBPT,70,+1 lap,0,1213,2023-07-02
+,27,Nico  Hulkenberg  HUL,Haas Ferrari,12,DNF,0,1213,2023-07-02
+1,1,Max  Verstappen  VER,Red Bull Racing Honda RBPT,71,1:56:48.894,25,1224,2023-11-05
+2,4,Lando  Norris  NOR,McLaren Mercedes,71,+8.277s,19,1224,2023-11-05
+3,14,Fernando  Alonso  ALO,Aston Martin Aramco Mercedes,71,+34.155s,15,1224,2023-11-05
+4,11,Sergio  Perez  PER,Red Bull Racing Honda RBPT,71,+34.208s,12,1224,2023-11-05
+5,18,Lance  Stroll  STR,Aston Martin Aramco Mercedes,71,+40.845s,10,1224,2023-11-05
+6,55,Carlos  Sainz  SAI,Ferrari,71,+50.188s,8,1224,2023-11-05
+7,10,Pierre  Gasly  GAS,Alpine Renault,71,+56.093s,6,1224,2023-11-05
+8,44,Lewis  Hamilton  HAM,Mercedes,71,+62.859s,4,1224,2023-11-05
+9,22,Yuki  Tsunoda  TSU,AlphaTauri Honda RBPT,71,+69.880s,2,1224,2023-11-05
+10,31,Esteban  Ocon  OCO,Alpine Renault,70,+1 lap,1,1224,2023-11-05
+11,2,Logan  Sargeant  SAR,Williams Mercedes,70,+1 lap,0,1224,2023-11-05
+12,27,Nico  Hulkenberg  HUL,Haas Ferrari,70,+1 lap,0,1224,2023-11-05
+13,3,Daniel  Ricciardo  RIC,AlphaTauri Honda RBPT,70,+1 lap,0,1224,2023-11-05
+14,81,Oscar  Piastri  PIA,McLaren Mercedes,69,+2 laps,0,1224,2023-11-05
+,63,George  Russell  RUS,Mercedes,57,DNF,0,1224,2023-11-05
+,77,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,39,DNF,0,1224,2023-11-05
+,24,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,22,DNF,0,1224,2023-11-05
+,20,Kevin  Magnussen  MAG,Haas Ferrari,0,DNF,0,1224,2023-11-05
+,23,Alexander  Albon  ALB,Williams Mercedes,0,DNF,0,1224,2023-11-05
+,16,Charles  Leclerc  LEC,Ferrari,0,DNS,0,1224,2023-11-05
+1,1,Max  Verstappen  VER,Red Bull Racing Honda RBPT,44,1:22:30.450,25,1216,2023-07-30
+2,11,Sergio  Perez  PER,Red Bull Racing Honda RBPT,44,+22.305s,18,1216,2023-07-30
+3,16,Charles  Leclerc  LEC,Ferrari,44,+32.259s,15,1216,2023-07-30
+4,44,Lewis  Hamilton  HAM,Mercedes,44,+49.671s,13,1216,2023-07-30
+5,14,Fernando  Alonso  ALO,Aston Martin Aramco Mercedes,44,+56.184s,10,1216,2023-07-30
+6,63,George  Russell  RUS,Mercedes,44,+63.101s,8,1216,2023-07-30
+7,4,Lando  Norris  NOR,McLaren Mercedes,44,+73.719s,6,1216,2023-07-30
+8,31,Esteban  Ocon  OCO,Alpine Renault,44,+74.719s,4,1216,2023-07-30
+9,18,Lance  Stroll  STR,Aston Martin Aramco Mercedes,44,+79.340s,2,1216,2023-07-30
+10,22,Yuki  Tsunoda  TSU,AlphaTauri Honda RBPT,44,+80.221s,1,1216,2023-07-30
+11,10,Pierre  Gasly  GAS,Alpine Renault,44,+83.084s,0,1216,2023-07-30
+12,77,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,44,+85.191s,0,1216,2023-07-30
+13,24,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,44,+95.441s,0,1216,2023-07-30
+14,23,Alexander  Albon  ALB,Williams Mercedes,44,+96.184s,0,1216,2023-07-30
+15,20,Kevin  Magnussen  MAG,Haas Ferrari,44,+101.754s,0,1216,2023-07-30
+16,3,Daniel  Ricciardo  RIC,AlphaTauri Honda RBPT,44,+103.071s,0,1216,2023-07-30
+17,2,Logan  Sargeant  SAR,Williams Mercedes,44,+104.476s,0,1216,2023-07-30
+18,27,Nico  Hulkenberg  HUL,Haas Ferrari,44,+110.450s,0,1216,2023-07-30
+,55,Carlos  Sainz  SAI,Ferrari,23,DNF,0,1216,2023-07-30
+,81,Oscar  Piastri  PIA,McLaren Mercedes,0,DNF,0,1216,2023-07-30
+1,1,Max  Verstappen  VER,Red Bull Racing Honda RBPT,78,1:48:51.980,25,1210,2023-05-28
+2,14,Fernando  Alonso  ALO,Aston Martin Aramco Mercedes,78,+27.921s,18,1210,2023-05-28
+3,31,Esteban  Ocon  OCO,Alpine Renault,78,+36.990s,15,1210,2023-05-28
+4,44,Lewis  Hamilton  HAM,Mercedes,78,+39.062s,13,1210,2023-05-28
+5,63,George  Russell  RUS,Mercedes,78,+56.284s,10,1210,2023-05-28
+6,16,Charles  Leclerc  LEC,Ferrari,78,+61.890s,8,1210,2023-05-28
+7,10,Pierre  Gasly  GAS,Alpine Renault,78,+62.362s,6,1210,2023-05-28
+8,55,Carlos  Sainz  SAI,Ferrari,78,+63.391s,4,1210,2023-05-28
+9,4,Lando  Norris  NOR,McLaren Mercedes,77,+1 lap,2,1210,2023-05-28
+10,81,Oscar  Piastri  PIA,McLaren Mercedes,77,+1 lap,1,1210,2023-05-28
+11,77,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,77,+1 lap,0,1210,2023-05-28
+12,21,Nyck  De Vries  DEV,AlphaTauri Honda RBPT,77,+1 lap,0,1210,2023-05-28
+13,24,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,77,+1 lap,0,1210,2023-05-28
+14,23,Alexander  Albon  ALB,Williams Mercedes,77,+1 lap,0,1210,2023-05-28
+15,22,Yuki  Tsunoda  TSU,AlphaTauri Honda RBPT,76,+2 laps,0,1210,2023-05-28
+16,11,Sergio  Perez  PER,Red Bull Racing Honda RBPT,76,+2 laps,0,1210,2023-05-28
+17,27,Nico  Hulkenberg  HUL,Haas Ferrari,76,+2 laps,0,1210,2023-05-28
+18,2,Logan  Sargeant  SAR,Williams Mercedes,76,+2 laps,0,1210,2023-05-28
+19,20,Kevin  Magnussen  MAG,Haas Ferrari,70,DNF,0,1210,2023-05-28
+,18,Lance  Stroll  STR,Aston Martin Aramco Mercedes,53,DNF,0,1210,2023-05-28
+1,1,Max  Verstappen  VER,Red Bull Racing Honda RBPT,51,1:13:41.143,25,1218,2023-09-03
+2,11,Sergio  Perez  PER,Red Bull Racing Honda RBPT,51,+6.064s,18,1218,2023-09-03
+3,55,Carlos  Sainz  SAI,Ferrari,51,+11.193s,15,1218,2023-09-03
+4,16,Charles  Leclerc  LEC,Ferrari,51,+11.377s,12,1218,2023-09-03
+5,63,George  Russell  RUS,Mercedes,51,+23.028s,10,1218,2023-09-03
+6,44,Lewis  Hamilton  HAM,Mercedes,51,+42.679s,8,1218,2023-09-03
+7,23,Alexander  Albon  ALB,Williams Mercedes,51,+45.106s,6,1218,2023-09-03
+8,4,Lando  Norris  NOR,McLaren Mercedes,51,+45.449s,4,1218,2023-09-03
+9,14,Fernando  Alonso  ALO,Aston Martin Aramco Mercedes,51,+46.294s,2,1218,2023-09-03
+10,77,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,51,+64.056s,1,1218,2023-09-03
+11,40,Liam  Lawson  LAW,AlphaTauri Honda RBPT,51,+70.638s,0,1218,2023-09-03
+12,81,Oscar  Piastri  PIA,McLaren Mercedes,51,+73.074s,0,1218,2023-09-03
+13,2,Logan  Sargeant  SAR,Williams Mercedes,51,+78.557s,0,1218,2023-09-03
+14,24,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,51,+80.164s,0,1218,2023-09-03
+15,10,Pierre  Gasly  GAS,Alpine Renault,51,+82.510s,0,1218,2023-09-03
+16,18,Lance  Stroll  STR,Aston Martin Aramco Mercedes,51,+87.266s,0,1218,2023-09-03
+17,27,Nico  Hulkenberg  HUL,Haas Ferrari,50,+1 lap,0,1218,2023-09-03
+18,20,Kevin  Magnussen  MAG,Haas Ferrari,50,+1 lap,0,1218,2023-09-03
+,31,Esteban  Ocon  OCO,Alpine Renault,39,DNF,0,1218,2023-09-03
+,22,Yuki  Tsunoda  TSU,AlphaTauri Honda RBPT,0,DNS,0,1218,2023-09-03
+1,1,Max  Verstappen  VER,Red Bull Racing Honda RBPT,57,1:27:38.241,26,1208,2023-05-07
+2,11,Sergio  Perez  PER,Red Bull Racing Honda RBPT,57,+5.384s,18,1208,2023-05-07
+3,14,Fernando  Alonso  ALO,Aston Martin Aramco Mercedes,57,+26.305s,15,1208,2023-05-07
+4,63,George  Russell  RUS,Mercedes,57,+33.229s,12,1208,2023-05-07
+5,55,Carlos  Sainz  SAI,Ferrari,57,+42.511s,10,1208,2023-05-07
+6,44,Lewis  Hamilton  HAM,Mercedes,57,+51.249s,8,1208,2023-05-07
+7,16,Charles  Leclerc  LEC,Ferrari,57,+52.988s,6,1208,2023-05-07
+8,10,Pierre  Gasly  GAS,Alpine Renault,57,+55.670s,4,1208,2023-05-07
+9,31,Esteban  Ocon  OCO,Alpine Renault,57,+58.123s,2,1208,2023-05-07
+10,20,Kevin  Magnussen  MAG,Haas Ferrari,57,+62.945s,1,1208,2023-05-07
+11,22,Yuki  Tsunoda  TSU,AlphaTauri Honda RBPT,57,+64.309s,0,1208,2023-05-07
+12,18,Lance  Stroll  STR,Aston Martin Aramco Mercedes,57,+64.754s,0,1208,2023-05-07
+13,77,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,57,+71.637s,0,1208,2023-05-07
+14,23,Alexander  Albon  ALB,Williams Mercedes,57,+72.861s,0,1208,2023-05-07
+15,27,Nico  Hulkenberg  HUL,Haas Ferrari,57,+74.950s,0,1208,2023-05-07
+16,24,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,57,+78.440s,0,1208,2023-05-07
+17,4,Lando  Norris  NOR,McLaren Mercedes,57,+87.717s,0,1208,2023-05-07
+18,21,Nyck  De Vries  DEV,AlphaTauri Honda RBPT,57,+88.949s,0,1208,2023-05-07
+19,81,Oscar  Piastri  PIA,McLaren Mercedes,56,+1 lap,0,1208,2023-05-07
+20,2,Logan  Sargeant  SAR,Williams Mercedes,56,+1 lap,0,1208,2023-05-07
+1,1,Max  Verstappen  VER,Red Bull Racing Honda RBPT,66,1:27:57.940,26,1211,2023-06-04
+2,44,Lewis  Hamilton  HAM,Mercedes,66,+24.090s,18,1211,2023-06-04
+3,63,George  Russell  RUS,Mercedes,66,+32.389s,15,1211,2023-06-04
+4,11,Sergio  Perez  PER,Red Bull Racing Honda RBPT,66,+35.812s,12,1211,2023-06-04
+5,55,Carlos  Sainz  SAI,Ferrari,66,+45.698s,10,1211,2023-06-04
+6,18,Lance  Stroll  STR,Aston Martin Aramco Mercedes,66,+63.320s,8,1211,2023-06-04
+7,14,Fernando  Alonso  ALO,Aston Martin Aramco Mercedes,66,+64.127s,6,1211,2023-06-04
+8,31,Esteban  Ocon  OCO,Alpine Renault,66,+69.242s,4,1211,2023-06-04
+9,24,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,66,+71.878s,2,1211,2023-06-04
+10,10,Pierre  Gasly  GAS,Alpine Renault,66,+73.530s,1,1211,2023-06-04
+11,16,Charles  Leclerc  LEC,Ferrari,66,+74.419s,0,1211,2023-06-04
+12,22,Yuki  Tsunoda  TSU,AlphaTauri Honda RBPT,66,+75.416s,0,1211,2023-06-04
+13,81,Oscar  Piastri  PIA,McLaren Mercedes,65,+1 lap,0,1211,2023-06-04
+14,21,Nyck  De Vries  DEV,AlphaTauri Honda RBPT,65,+1 lap,0,1211,2023-06-04
+15,27,Nico  Hulkenberg  HUL,Haas Ferrari,65,+1 lap,0,1211,2023-06-04
+16,23,Alexander  Albon  ALB,Williams Mercedes,65,+1 lap,0,1211,2023-06-04
+17,4,Lando  Norris  NOR,McLaren Mercedes,65,+1 lap,0,1211,2023-06-04
+18,20,Kevin  Magnussen  MAG,Haas Ferrari,65,+1 lap,0,1211,2023-06-04
+19,77,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,65,+1 lap,0,1211,2023-06-04
+20,2,Logan  Sargeant  SAR,Williams Mercedes,65,+1 lap,0,1211,2023-06-04
+1,1,Max  Verstappen  VER,Red Bull Racing Honda RBPT,57,1:27:39.168,26,1221,2023-10-08
+2,81,Oscar  Piastri  PIA,McLaren Mercedes,57,+4.833s,18,1221,2023-10-08
+3,4,Lando  Norris  NOR,McLaren Mercedes,57,+5.969s,15,1221,2023-10-08
+4,63,George  Russell  RUS,Mercedes,57,+34.119s,12,1221,2023-10-08
+5,16,Charles  Leclerc  LEC,Ferrari,57,+38.976s,10,1221,2023-10-08
+6,14,Fernando  Alonso  ALO,Aston Martin Aramco Mercedes,57,+49.032s,8,1221,2023-10-08
+7,31,Esteban  Ocon  OCO,Alpine Renault,57,+62.390s,6,1221,2023-10-08
+8,77,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,57,+66.563s,4,1221,2023-10-08
+9,24,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,57,+76.127s,2,1221,2023-10-08
+10,11,Sergio  Perez  PER,Red Bull Racing Honda RBPT,57,+80.181s,1,1221,2023-10-08
+11,18,Lance  Stroll  STR,Aston Martin Aramco Mercedes,57,+81.652s,0,1221,2023-10-08
+12,10,Pierre  Gasly  GAS,Alpine Renault,57,+82.300s,0,1221,2023-10-08
+13,23,Alexander  Albon  ALB,Williams Mercedes,57,+91.014s,0,1221,2023-10-08
+14,20,Kevin  Magnussen  MAG,Haas Ferrari,56,+1 lap,0,1221,2023-10-08
+15,22,Yuki  Tsunoda  TSU,AlphaTauri Honda RBPT,56,+1 lap,0,1221,2023-10-08
+16,27,Nico  Hulkenberg  HUL,Haas Ferrari,56,+1 lap,0,1221,2023-10-08
+17,40,Liam  Lawson  LAW,AlphaTauri Honda RBPT,56,+1 lap,0,1221,2023-10-08
+,2,Logan  Sargeant  SAR,Williams Mercedes,40,DNF,0,1221,2023-10-08
+,44,Lewis  Hamilton  HAM,Mercedes,0,DNF,0,1221,2023-10-08
+,55,Carlos  Sainz  SAI,Ferrari,0,DNS,0,1221,2023-10-08
+1,1,Max  Verstappen  VER,Red Bull Racing Honda RBPT,57,1:33:56.736,25,1141,2023-03-05
+2,11,Sergio  Perez  PER,Red Bull Racing Honda RBPT,57,+11.987s,18,1141,2023-03-05
+3,14,Fernando  Alonso  ALO,Aston Martin Aramco Mercedes,57,+38.637s,15,1141,2023-03-05
+4,55,Carlos  Sainz  SAI,Ferrari,57,+48.052s,12,1141,2023-03-05
+5,44,Lewis  Hamilton  HAM,Mercedes,57,+50.977s,10,1141,2023-03-05
+6,18,Lance  Stroll  STR,Aston Martin Aramco Mercedes,57,+54.502s,8,1141,2023-03-05
+7,63,George  Russell  RUS,Mercedes,57,+55.873s,6,1141,2023-03-05
+8,77,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,57,+72.647s,4,1141,2023-03-05
+9,10,Pierre  Gasly  GAS,Alpine Renault,57,+73.753s,2,1141,2023-03-05
+10,23,Alexander  Albon  ALB,Williams Mercedes,57,+89.774s,1,1141,2023-03-05
+11,22,Yuki  Tsunoda  TSU,AlphaTauri Honda RBPT,57,+90.870s,0,1141,2023-03-05
+12,2,Logan  Sargeant  SAR,Williams Mercedes,56,+1 lap,0,1141,2023-03-05
+13,20,Kevin  Magnussen  MAG,Haas Ferrari,56,+1 lap,0,1141,2023-03-05
+14,21,Nyck  De Vries  DEV,AlphaTauri Honda RBPT,56,+1 lap,0,1141,2023-03-05
+15,27,Nico  Hulkenberg  HUL,Haas Ferrari,56,+1 lap,0,1141,2023-03-05
+16,24,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,56,+1 lap,0,1141,2023-03-05
+17,4,Lando  Norris  NOR,McLaren Mercedes,55,+2 laps,0,1141,2023-03-05
+,31,Esteban  Ocon  OCO,Alpine Renault,41,DNF,0,1141,2023-03-05
+,16,Charles  Leclerc  LEC,Ferrari,39,DNF,0,1141,2023-03-05
+,81,Oscar  Piastri  PIA,McLaren Mercedes,13,DNF,0,1141,2023-03-05
+1,1,Max  Verstappen  VER,Red Bull Racing Honda RBPT,53,1:30:58.421,26,1220,2023-09-24
+2,4,Lando  Norris  NOR,McLaren Mercedes,53,+19.387s,18,1220,2023-09-24
+3,81,Oscar  Piastri  PIA,McLaren Mercedes,53,+36.494s,15,1220,2023-09-24
+4,16,Charles  Leclerc  LEC,Ferrari,53,+43.998s,12,1220,2023-09-24
+5,44,Lewis  Hamilton  HAM,Mercedes,53,+49.376s,10,1220,2023-09-24
+6,55,Carlos  Sainz  SAI,Ferrari,53,+50.221s,8,1220,2023-09-24
+7,63,George  Russell  RUS,Mercedes,53,+57.659s,6,1220,2023-09-24
+8,14,Fernando  Alonso  ALO,Aston Martin Aramco Mercedes,53,+74.725s,4,1220,2023-09-24
+9,31,Esteban  Ocon  OCO,Alpine Renault,53,+79.678s,2,1220,2023-09-24
+10,10,Pierre  Gasly  GAS,Alpine Renault,53,+83.155s,1,1220,2023-09-24
+11,40,Liam  Lawson  LAW,AlphaTauri Honda RBPT,52,+1 lap,0,1220,2023-09-24
+12,22,Yuki  Tsunoda  TSU,AlphaTauri Honda RBPT,52,+1 lap,0,1220,2023-09-24
+13,24,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,52,+1 lap,0,1220,2023-09-24
+14,27,Nico  Hulkenberg  HUL,Haas Ferrari,52,+1 lap,0,1220,2023-09-24
+15,20,Kevin  Magnussen  MAG,Haas Ferrari,52,+1 lap,0,1220,2023-09-24
+,23,Alexander  Albon  ALB,Williams Mercedes,26,DNF,0,1220,2023-09-24
+,2,Logan  Sargeant  SAR,Williams Mercedes,22,DNF,0,1220,2023-09-24
+,18,Lance  Stroll  STR,Aston Martin Aramco Mercedes,20,DNF,0,1220,2023-09-24
+,11,Sergio  Perez  PER,Red Bull Racing Honda RBPT,15,DNF,0,1220,2023-09-24
+,77,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,7,DNF,0,1220,2023-09-24
+1,1,Max  Verstappen  VER,Red Bull Racing Honda RBPT,70,1:33:58.348,25,1212,2023-06-18
+2,14,Fernando  Alonso  ALO,Aston Martin Aramco Mercedes,70,+9.570s,18,1212,2023-06-18
+3,44,Lewis  Hamilton  HAM,Mercedes,70,+14.168s,15,1212,2023-06-18
+4,16,Charles  Leclerc  LEC,Ferrari,70,+18.648s,12,1212,2023-06-18
+5,55,Carlos  Sainz  SAI,Ferrari,70,+21.540s,10,1212,2023-06-18
+6,11,Sergio  Perez  PER,Red Bull Racing Honda RBPT,70,+51.028s,9,1212,2023-06-18
+7,23,Alexander  Albon  ALB,Williams Mercedes,70,+60.813s,6,1212,2023-06-18
+8,31,Esteban  Ocon  OCO,Alpine Renault,70,+61.692s,4,1212,2023-06-18
+9,18,Lance  Stroll  STR,Aston Martin Aramco Mercedes,70,+64.402s,2,1212,2023-06-18
+10,77,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,70,+64.432s,1,1212,2023-06-18
+11,81,Oscar  Piastri  PIA,McLaren Mercedes,70,+65.101s,0,1212,2023-06-18
+12,10,Pierre  Gasly  GAS,Alpine Renault,70,+65.249s,0,1212,2023-06-18
+13,4,Lando  Norris  NOR,McLaren Mercedes,70,+68.363s,0,1212,2023-06-18
+14,22,Yuki  Tsunoda  TSU,AlphaTauri Honda RBPT,70,+73.423s,0,1212,2023-06-18
+15,27,Nico  Hulkenberg  HUL,Haas Ferrari,69,+1 lap,0,1212,2023-06-18
+16,24,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,69,+1 lap,0,1212,2023-06-18
+17,20,Kevin  Magnussen  MAG,Haas Ferrari,69,+1 lap,0,1212,2023-06-18
+18,21,Nyck  De Vries  DEV,AlphaTauri Honda RBPT,69,+1 lap,0,1212,2023-06-18
+,63,George  Russell  RUS,Mercedes,53,DNF,0,1212,2023-06-18
+,2,Logan  Sargeant  SAR,Williams Mercedes,6,DNF,0,1212,2023-06-18
+1,1,Max  Verstappen  VER,Red Bull Racing Honda RBPT,72,2:24:04.411,25,1217,2023-08-27
+2,14,Fernando  Alonso  ALO,Aston Martin Aramco Mercedes,72,+3.744s,19,1217,2023-08-27
+3,10,Pierre  Gasly  GAS,Alpine Renault,72,+7.058s,15,1217,2023-08-27
+4,11,Sergio  Perez  PER,Red Bull Racing Honda RBPT,72,+10.068s,12,1217,2023-08-27
+5,55,Carlos  Sainz  SAI,Ferrari,72,+12.541s,10,1217,2023-08-27
+6,44,Lewis  Hamilton  HAM,Mercedes,72,+13.209s,8,1217,2023-08-27
+7,4,Lando  Norris  NOR,McLaren Mercedes,72,+13.232s,6,1217,2023-08-27
+8,23,Alexander  Albon  ALB,Williams Mercedes,72,+15.155s,4,1217,2023-08-27
+9,81,Oscar  Piastri  PIA,McLaren Mercedes,72,+16.580s,2,1217,2023-08-27
+10,31,Esteban  Ocon  OCO,Alpine Renault,72,+18.346s,1,1217,2023-08-27
+11,18,Lance  Stroll  STR,Aston Martin Aramco Mercedes,72,+20.087s,0,1217,2023-08-27
+12,27,Nico  Hulkenberg  HUL,Haas Ferrari,72,+20.840s,0,1217,2023-08-27
+13,40,Liam  Lawson  LAW,AlphaTauri Honda RBPT,72,+26.147s,0,1217,2023-08-27
+14,77,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,72,+27.388s,0,1217,2023-08-27
+15,22,Yuki  Tsunoda  TSU,AlphaTauri Honda RBPT,72,+29.893s,0,1217,2023-08-27
+16,20,Kevin  Magnussen  MAG,Haas Ferrari,72,+31.410s,0,1217,2023-08-27
+17,63,George  Russell  RUS,Mercedes,72,+55.754s,0,1217,2023-08-27
+,24,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,62,DNF,0,1217,2023-08-27
+,16,Charles  Leclerc  LEC,Ferrari,41,DNF,0,1217,2023-08-27
+,2,Logan  Sargeant  SAR,Williams Mercedes,14,DNF,0,1217,2023-08-27
+1,11,Sergio  Perez  PER,Red Bull Racing Honda RBPT,50,1:21:14.894,25,1142,2023-03-19
+2,1,Max  Verstappen  VER,Red Bull Racing Honda RBPT,50,+5.355s,19,1142,2023-03-19
+3,14,Fernando  Alonso  ALO,Aston Martin Aramco Mercedes,50,+20.728s,15,1142,2023-03-19
+4,63,George  Russell  RUS,Mercedes,50,+25.866s,12,1142,2023-03-19
+5,44,Lewis  Hamilton  HAM,Mercedes,50,+31.065s,10,1142,2023-03-19
+6,55,Carlos  Sainz  SAI,Ferrari,50,+35.876s,8,1142,2023-03-19
+7,16,Charles  Leclerc  LEC,Ferrari,50,+43.162s,6,1142,2023-03-19
+8,31,Esteban  Ocon  OCO,Alpine Renault,50,+52.832s,4,1142,2023-03-19
+9,10,Pierre  Gasly  GAS,Alpine Renault,50,+54.747s,2,1142,2023-03-19
+10,20,Kevin  Magnussen  MAG,Haas Ferrari,50,+64.826s,1,1142,2023-03-19
+11,22,Yuki  Tsunoda  TSU,AlphaTauri Honda RBPT,50,+67.494s,0,1142,2023-03-19
+12,27,Nico  Hulkenberg  HUL,Haas Ferrari,50,+70.588s,0,1142,2023-03-19
+13,24,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,50,+76.060s,0,1142,2023-03-19
+14,21,Nyck  De Vries  DEV,AlphaTauri Honda RBPT,50,+77.478s,0,1142,2023-03-19
+15,81,Oscar  Piastri  PIA,McLaren Mercedes,50,+85.021s,0,1142,2023-03-19
+16,2,Logan  Sargeant  SAR,Williams Mercedes,50,+86.293s,0,1142,2023-03-19
+17,4,Lando  Norris  NOR,McLaren Mercedes,50,+86.445s,0,1142,2023-03-19
+18,77,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,49,+1 lap,0,1142,2023-03-19
+,23,Alexander  Albon  ALB,Williams Mercedes,27,DNF,0,1142,2023-03-19
+,18,Lance  Stroll  STR,Aston Martin Aramco Mercedes,16,DNF,0,1142,2023-03-19
+1,1,Max  Verstappen  VER,Red Bull Racing Honda RBPT,70,1:38:08.634,26,1215,2023-07-23
+2,4,Lando  Norris  NOR,McLaren Mercedes,70,+33.731s,18,1215,2023-07-23
+3,11,Sergio  Perez  PER,Red Bull Racing Honda RBPT,70,+37.603s,15,1215,2023-07-23
+4,44,Lewis  Hamilton  HAM,Mercedes,70,+39.134s,12,1215,2023-07-23
+5,81,Oscar  Piastri  PIA,McLaren Mercedes,70,+62.572s,10,1215,2023-07-23
+6,63,George  Russell  RUS,Mercedes,70,+65.825s,8,1215,2023-07-23
+7,16,Charles  Leclerc  LEC,Ferrari,70,+70.317s,6,1215,2023-07-23
+8,55,Carlos  Sainz  SAI,Ferrari,70,+71.073s,4,1215,2023-07-23
+9,14,Fernando  Alonso  ALO,Aston Martin Aramco Mercedes,70,+75.709s,2,1215,2023-07-23
+10,18,Lance  Stroll  STR,Aston Martin Aramco Mercedes,69,+1 lap,1,1215,2023-07-23
+11,23,Alexander  Albon  ALB,Williams Mercedes,69,+1 lap,0,1215,2023-07-23
+12,77,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,69,+1 lap,0,1215,2023-07-23
+13,3,Daniel  Ricciardo  RIC,AlphaTauri Honda RBPT,69,+1 lap,0,1215,2023-07-23
+14,27,Nico  Hulkenberg  HUL,Haas Ferrari,69,+1 lap,0,1215,2023-07-23
+15,22,Yuki  Tsunoda  TSU,AlphaTauri Honda RBPT,69,+1 lap,0,1215,2023-07-23
+16,24,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,69,+1 lap,0,1215,2023-07-23
+17,20,Kevin  Magnussen  MAG,Haas Ferrari,69,+1 lap,0,1215,2023-07-23
+18,2,Logan  Sargeant  SAR,Williams Mercedes,67,DNF,0,1215,2023-07-23
+,31,Esteban  Ocon  OCO,Alpine Renault,2,DNF,0,1215,2023-07-23
+,10,Pierre  Gasly  GAS,Alpine Renault,1,DNF,0,1215,2023-07-23
+1,1,Max  Verstappen  VER,Red Bull Racing Honda RBPT,58,1:27:02.624,26,1226,2023-11-26
+2,16,Charles  Leclerc  LEC,Ferrari,58,+17.993s,18,1226,2023-11-26
+3,63,George  Russell  RUS,Mercedes,58,+20.328s,15,1226,2023-11-26
+4,11,Sergio  Perez  PER,Red Bull Racing Honda RBPT,58,+21.453s,12,1226,2023-11-26
+5,4,Lando  Norris  NOR,McLaren Mercedes,58,+24.284s,10,1226,2023-11-26
+6,81,Oscar  Piastri  PIA,McLaren Mercedes,58,+31.487s,8,1226,2023-11-26
+7,14,Fernando  Alonso  ALO,Aston Martin Aramco Mercedes,58,+39.512s,6,1226,2023-11-26
+8,22,Yuki  Tsunoda  TSU,AlphaTauri Honda RBPT,58,+43.088s,4,1226,2023-11-26
+9,44,Lewis  Hamilton  HAM,Mercedes,58,+44.424s,2,1226,2023-11-26
+10,18,Lance  Stroll  STR,Aston Martin Aramco Mercedes,58,+55.632s,1,1226,2023-11-26
+11,3,Daniel  Ricciardo  RIC,AlphaTauri Honda RBPT,58,+56.229s,0,1226,2023-11-26
+12,31,Esteban  Ocon  OCO,Alpine Renault,58,+66.373s,0,1226,2023-11-26
+13,10,Pierre  Gasly  GAS,Alpine Renault,58,+70.360s,0,1226,2023-11-26
+14,23,Alexander  Albon  ALB,Williams Mercedes,58,+73.184s,0,1226,2023-11-26
+15,27,Nico  Hulkenberg  HUL,Haas Ferrari,58,+83.696s,0,1226,2023-11-26
+16,2,Logan  Sargeant  SAR,Williams Mercedes,58,+87.791s,0,1226,2023-11-26
+17,24,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,58,+89.422s,0,1226,2023-11-26
+18,55,Carlos  Sainz  SAI,Ferrari,57,DNF,0,1226,2023-11-26
+19,77,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,57,+1 lap,0,1226,2023-11-26
+20,20,Kevin  Magnussen  MAG,Haas Ferrari,57,+1 lap,0,1226,2023-11-26
+1,1,Max  Verstappen  VER,Red Bull Racing Honda RBPT,50,1:29:08.289,25,1225,2023-11-18
+2,16,Charles  Leclerc  LEC,Ferrari,50,+2.070s,18,1225,2023-11-18
+3,11,Sergio  Perez  PER,Red Bull Racing Honda RBPT,50,+2.241s,15,1225,2023-11-18
+4,31,Esteban  Ocon  OCO,Alpine Renault,50,+18.665s,12,1225,2023-11-18
+5,18,Lance  Stroll  STR,Aston Martin Aramco Mercedes,50,+20.067s,10,1225,2023-11-18
+6,55,Carlos  Sainz  SAI,Ferrari,50,+20.834s,8,1225,2023-11-18
+7,44,Lewis  Hamilton  HAM,Mercedes,50,+21.755s,6,1225,2023-11-18
+8,63,George  Russell  RUS,Mercedes,50,+23.091s,4,1225,2023-11-18
+9,14,Fernando  Alonso  ALO,Aston Martin Aramco Mercedes,50,+25.964s,2,1225,2023-11-18
+10,81,Oscar  Piastri  PIA,McLaren Mercedes,50,+29.496s,2,1225,2023-11-18
+11,10,Pierre  Gasly  GAS,Alpine Renault,50,+34.270s,0,1225,2023-11-18
+12,23,Alexander  Albon  ALB,Williams Mercedes,50,+43.398s,0,1225,2023-11-18
+13,20,Kevin  Magnussen  MAG,Haas Ferrari,50,+44.825s,0,1225,2023-11-18
+14,3,Daniel  Ricciardo  RIC,AlphaTauri Honda RBPT,50,+48.525s,0,1225,2023-11-18
+15,24,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,50,+50.162s,0,1225,2023-11-18
+16,2,Logan  Sargeant  SAR,Williams Mercedes,50,+50.882s,0,1225,2023-11-18
+17,77,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,50,+85.350s,0,1225,2023-11-18
+18,22,Yuki  Tsunoda  TSU,AlphaTauri Honda RBPT,46,DNF,0,1225,2023-11-18
+19,27,Nico  Hulkenberg  HUL,Haas Ferrari,45,DNF,0,1225,2023-11-18
+,4,Lando  Norris  NOR,McLaren Mercedes,2,DNF,0,1225,2023-11-18
+1,1,Max  Verstappen  VER,Red Bull Racing Honda RBPT,52,1:25:16.938,26,1214,2023-07-09
+2,4,Lando  Norris  NOR,McLaren Mercedes,52,+3.798s,18,1214,2023-07-09
+3,44,Lewis  Hamilton  HAM,Mercedes,52,+6.783s,15,1214,2023-07-09
+4,81,Oscar  Piastri  PIA,McLaren Mercedes,52,+7.776s,12,1214,2023-07-09
+5,63,George  Russell  RUS,Mercedes,52,+11.206s,10,1214,2023-07-09
+6,11,Sergio  Perez  PER,Red Bull Racing Honda RBPT,52,+12.882s,8,1214,2023-07-09
+7,14,Fernando  Alonso  ALO,Aston Martin Aramco Mercedes,52,+17.193s,6,1214,2023-07-09
+8,23,Alexander  Albon  ALB,Williams Mercedes,52,+17.878s,4,1214,2023-07-09
+9,16,Charles  Leclerc  LEC,Ferrari,52,+18.689s,2,1214,2023-07-09
+10,55,Carlos  Sainz  SAI,Ferrari,52,+19.448s,1,1214,2023-07-09
+11,2,Logan  Sargeant  SAR,Williams Mercedes,52,+23.632s,0,1214,2023-07-09
+12,77,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,52,+25.830s,0,1214,2023-07-09
+13,27,Nico  Hulkenberg  HUL,Haas Ferrari,52,+26.663s,0,1214,2023-07-09
+14,18,Lance  Stroll  STR,Aston Martin Aramco Mercedes,52,+27.483s,0,1214,2023-07-09
+15,24,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,52,+29.820s,0,1214,2023-07-09
+16,22,Yuki  Tsunoda  TSU,AlphaTauri Honda RBPT,52,+31.225s,0,1214,2023-07-09
+17,21,Nyck  De Vries  DEV,AlphaTauri Honda RBPT,52,+33.128s,0,1214,2023-07-09
+18,10,Pierre  Gasly  GAS,Alpine Renault,46,DNF,0,1214,2023-07-09
+,20,Kevin  Magnussen  MAG,Haas Ferrari,31,DNF,0,1214,2023-07-09
+,31,Esteban  Ocon  OCO,Alpine Renault,9,DNF,0,1214,2023-07-09
+1,1,Max  Verstappen  VER,Red Bull Racing Honda RBPT,71,2:02:30.814,25,1223,2023-10-29
+2,44,Lewis  Hamilton  HAM,Mercedes,71,+13.875s,19,1223,2023-10-29
+3,16,Charles  Leclerc  LEC,Ferrari,71,+23.124s,15,1223,2023-10-29
+4,55,Carlos  Sainz  SAI,Ferrari,71,+27.154s,12,1223,2023-10-29
+5,4,Lando  Norris  NOR,McLaren Mercedes,71,+33.266s,10,1223,2023-10-29
+6,63,George  Russell  RUS,Mercedes,71,+41.020s,8,1223,2023-10-29
+7,3,Daniel  Ricciardo  RIC,AlphaTauri Honda RBPT,71,+41.570s,6,1223,2023-10-29
+8,81,Oscar  Piastri  PIA,McLaren Mercedes,71,+43.104s,4,1223,2023-10-29
+9,23,Alexander  Albon  ALB,Williams Mercedes,71,+48.573s,2,1223,2023-10-29
+10,31,Esteban  Ocon  OCO,Alpine Renault,71,+62.879s,1,1223,2023-10-29
+11,10,Pierre  Gasly  GAS,Alpine Renault,71,+66.208s,0,1223,2023-10-29
+12,22,Yuki  Tsunoda  TSU,AlphaTauri Honda RBPT,71,+78.982s,0,1223,2023-10-29
+13,27,Nico  Hulkenberg  HUL,Haas Ferrari,71,+80.309s,0,1223,2023-10-29
+14,24,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,71,+81.676s,0,1223,2023-10-29
+15,77,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,71,+85.597s,0,1223,2023-10-29
+16,2,Logan  Sargeant  SAR,Williams Mercedes,70,DNF,0,1223,2023-10-29
+17,18,Lance  Stroll  STR,Aston Martin Aramco Mercedes,66,DNF,0,1223,2023-10-29
+,14,Fernando  Alonso  ALO,Aston Martin Aramco Mercedes,47,DNF,0,1223,2023-10-29
+,20,Kevin  Magnussen  MAG,Haas Ferrari,31,DNF,0,1223,2023-10-29
+,11,Sergio  Perez  PER,Red Bull Racing Honda RBPT,1,DNF,0,1223,2023-10-29
+1,55,Carlos  Sainz  SAI,Ferrari,62,1:46:37.418,25,1219,2023-09-17
+2,4,Lando  Norris  NOR,McLaren Mercedes,62,+0.812s,18,1219,2023-09-17
+3,44,Lewis  Hamilton  HAM,Mercedes,62,+1.269s,16,1219,2023-09-17
+4,16,Charles  Leclerc  LEC,Ferrari,62,+21.177s,12,1219,2023-09-17
+5,1,Max  Verstappen  VER,Red Bull Racing Honda RBPT,62,+21.441s,10,1219,2023-09-17
+6,10,Pierre  Gasly  GAS,Alpine Renault,62,+38.441s,8,1219,2023-09-17
+7,81,Oscar  Piastri  PIA,McLaren Mercedes,62,+41.479s,6,1219,2023-09-17
+8,11,Sergio  Perez  PER,Red Bull Racing Honda RBPT,62,+59.534s,4,1219,2023-09-17
+9,40,Liam  Lawson  LAW,AlphaTauri Honda RBPT,62,+65.918s,2,1219,2023-09-17
+10,20,Kevin  Magnussen  MAG,Haas Ferrari,62,+72.116s,1,1219,2023-09-17
+11,23,Alexander  Albon  ALB,Williams Mercedes,62,+73.417s,0,1219,2023-09-17
+12,24,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,62,+83.649s,0,1219,2023-09-17
+13,27,Nico  Hulkenberg  HUL,Haas Ferrari,62,+86.201s,0,1219,2023-09-17
+14,2,Logan  Sargeant  SAR,Williams Mercedes,62,+86.889s,0,1219,2023-09-17
+15,14,Fernando  Alonso  ALO,Aston Martin Aramco Mercedes,62,+87.603s,0,1219,2023-09-17
+16,63,George  Russell  RUS,Mercedes,61,DNF,0,1219,2023-09-17
+,77,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,51,DNF,0,1219,2023-09-17
+,31,Esteban  Ocon  OCO,Alpine Renault,42,DNF,0,1219,2023-09-17
+,22,Yuki  Tsunoda  TSU,AlphaTauri Honda RBPT,0,DNF,0,1219,2023-09-17
+1,11,Sergio  Perez  PER,Red Bull Racing Honda RBPT,51,1:32:42.436,25,1207,2023-04-30
+2,1,Max  Verstappen  VER,Red Bull Racing Honda RBPT,51,+2.137s,18,1207,2023-04-30
+3,16,Charles  Leclerc  LEC,Ferrari,51,+21.217s,15,1207,2023-04-30
+4,14,Fernando  Alonso  ALO,Aston Martin Aramco Mercedes,51,+22.024s,12,1207,2023-04-30
+5,55,Carlos  Sainz  SAI,Ferrari,51,+45.491s,10,1207,2023-04-30
+6,44,Lewis  Hamilton  HAM,Mercedes,51,+46.145s,8,1207,2023-04-30
+7,18,Lance  Stroll  STR,Aston Martin Aramco Mercedes,51,+51.617s,6,1207,2023-04-30
+8,63,George  Russell  RUS,Mercedes,51,+74.240s,5,1207,2023-04-30
+9,4,Lando  Norris  NOR,McLaren Mercedes,51,+80.376s,2,1207,2023-04-30
+10,22,Yuki  Tsunoda  TSU,AlphaTauri Honda RBPT,51,+83.862s,1,1207,2023-04-30
+11,81,Oscar  Piastri  PIA,McLaren Mercedes,51,+86.501s,0,1207,2023-04-30
+12,23,Alexander  Albon  ALB,Williams Mercedes,51,+88.623s,0,1207,2023-04-30
+13,20,Kevin  Magnussen  MAG,Haas Ferrari,51,+89.729s,0,1207,2023-04-30
+14,10,Pierre  Gasly  GAS,Alpine Renault,51,+91.332s,0,1207,2023-04-30
+15,31,Esteban  Ocon  OCO,Alpine Renault,51,+97.794s,0,1207,2023-04-30
+16,2,Logan  Sargeant  SAR,Williams Mercedes,51,+100.943s,0,1207,2023-04-30
+17,27,Nico  Hulkenberg  HUL,Haas Ferrari,50,+1 lap,0,1207,2023-04-30
+18,77,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,50,+1 lap,0,1207,2023-04-30
+,24,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,36,DNF,0,1207,2023-04-30
+,21,Nyck  De Vries  DEV,AlphaTauri Honda RBPT,9,DNF,0,1207,2023-04-30
+1,16,Charles  Leclerc  LEC,Ferrari,57,1:37:33.584,26,1124,2022-03-20
+2,55,Carlos  Sainz  SAI,Ferrari,57,+5.598s,18,1124,2022-03-20
+3,44,Lewis  Hamilton  HAM,Mercedes,57,+9.675s,15,1124,2022-03-20
+4,63,George  Russell  RUS,Mercedes,57,+11.211s,12,1124,2022-03-20
+5,20,Kevin  Magnussen  MAG,Haas Ferrari,57,+14.754s,10,1124,2022-03-20
+6,77,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,57,+16.119s,8,1124,2022-03-20
+7,31,Esteban  Ocon  OCO,Alpine Renault,57,+19.423s,6,1124,2022-03-20
+8,22,Yuki  Tsunoda  TSU,AlphaTauri RBPT,57,+20.386s,4,1124,2022-03-20
+9,14,Fernando  Alonso  ALO,Alpine Renault,57,+22.390s,2,1124,2022-03-20
+10,24,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,57,+23.064s,1,1124,2022-03-20
+11,47,Mick  Schumacher  MSC,Haas Ferrari,57,+32.574s,0,1124,2022-03-20
+12,18,Lance  Stroll  STR,Aston Martin Aramco Mercedes,57,+45.873s,0,1124,2022-03-20
+13,23,Alexander  Albon  ALB,Williams Mercedes,57,+53.932s,0,1124,2022-03-20
+14,3,Daniel  Ricciardo  RIC,McLaren Mercedes,57,+54.975s,0,1124,2022-03-20
+15,4,Lando  Norris  NOR,McLaren Mercedes,57,+56.335s,0,1124,2022-03-20
+16,6,Nicholas  Latifi  LAT,Williams Mercedes,57,+61.795s,0,1124,2022-03-20
+17,27,Nico  Hulkenberg  HUL,Aston Martin Aramco Mercedes,57,+63.829s,0,1124,2022-03-20
+18,11,Sergio  Perez  PER,Red Bull Racing RBPT,56,DNF,0,1124,2022-03-20
+19,1,Max  Verstappen  VER,Red Bull Racing RBPT,54,DNF,0,1124,2022-03-20
+,10,Pierre  Gasly  GAS,AlphaTauri RBPT,44,DNF,0,1124,2022-03-20
+1,1,Max  Verstappen  VER,Red Bull Racing RBPT,70,1:36:21.757,25,1113,2022-06-19
+2,55,Carlos  Sainz  SAI,Ferrari,70,+0.993s,19,1113,2022-06-19
+3,44,Lewis  Hamilton  HAM,Mercedes,70,+7.006s,15,1113,2022-06-19
+4,63,George  Russell  RUS,Mercedes,70,+12.313s,12,1113,2022-06-19
+5,16,Charles  Leclerc  LEC,Ferrari,70,+15.168s,10,1113,2022-06-19
+6,31,Esteban  Ocon  OCO,Alpine Renault,70,+23.890s,8,1113,2022-06-19
+7,77,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,70,+25.247s,6,1113,2022-06-19
+8,24,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,70,+26.952s,4,1113,2022-06-19
+9,14,Fernando  Alonso  ALO,Alpine Renault,70,+29.945s,2,1113,2022-06-19
+10,18,Lance  Stroll  STR,Aston Martin Aramco Mercedes,70,+38.222s,1,1113,2022-06-19
+11,3,Daniel  Ricciardo  RIC,McLaren Mercedes,70,+43.047s,0,1113,2022-06-19
+12,5,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,70,+44.245s,0,1113,2022-06-19
+13,23,Alexander  Albon  ALB,Williams Mercedes,70,+44.893s,0,1113,2022-06-19
+14,10,Pierre  Gasly  GAS,AlphaTauri RBPT,70,+45.183s,0,1113,2022-06-19
+15,4,Lando  Norris  NOR,McLaren Mercedes,70,+52.145s,0,1113,2022-06-19
+16,6,Nicholas  Latifi  LAT,Williams Mercedes,70,+59.978s,0,1113,2022-06-19
+17,20,Kevin  Magnussen  MAG,Haas Ferrari,70,+68.180s,0,1113,2022-06-19
+,22,Yuki  Tsunoda  TSU,AlphaTauri RBPT,47,DNF,0,1113,2022-06-19
+,47,Mick  Schumacher  MSC,Haas Ferrari,18,DNF,0,1113,2022-06-19
+,11,Sergio  Perez  PER,Red Bull Racing RBPT,7,DNF,0,1113,2022-06-19
+1,1,Max  Verstappen  VER,Red Bull Racing RBPT,70,1:39:35.912,25,1117,2022-07-31
+2,44,Lewis  Hamilton  HAM,Mercedes,70,+7.834s,19,1117,2022-07-31
+3,63,George  Russell  RUS,Mercedes,70,+12.337s,15,1117,2022-07-31
+4,55,Carlos  Sainz  SAI,Ferrari,70,+14.579s,12,1117,2022-07-31
+5,11,Sergio  Perez  PER,Red Bull Racing RBPT,70,+15.688s,10,1117,2022-07-31
+6,16,Charles  Leclerc  LEC,Ferrari,70,+16.047s,8,1117,2022-07-31
+7,4,Lando  Norris  NOR,McLaren Mercedes,70,+78.300s,6,1117,2022-07-31
+8,14,Fernando  Alonso  ALO,Alpine Renault,69,+1 lap,4,1117,2022-07-31
+9,31,Esteban  Ocon  OCO,Alpine Renault,69,+1 lap,2,1117,2022-07-31
+10,5,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,69,+1 lap,1,1117,2022-07-31
+11,18,Lance  Stroll  STR,Aston Martin Aramco Mercedes,69,+1 lap,0,1117,2022-07-31
+12,10,Pierre  Gasly  GAS,AlphaTauri RBPT,69,+1 lap,0,1117,2022-07-31
+13,24,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,69,+1 lap,0,1117,2022-07-31
+14,47,Mick  Schumacher  MSC,Haas Ferrari,69,+1 lap,0,1117,2022-07-31
+15,3,Daniel  Ricciardo  RIC,McLaren Mercedes,69,+1 lap,0,1117,2022-07-31
+16,20,Kevin  Magnussen  MAG,Haas Ferrari,69,+1 lap,0,1117,2022-07-31
+17,23,Alexander  Albon  ALB,Williams Mercedes,69,+1 lap,0,1117,2022-07-31
+18,6,Nicholas  Latifi  LAT,Williams Mercedes,69,+1 lap,0,1117,2022-07-31
+19,22,Yuki  Tsunoda  TSU,AlphaTauri RBPT,68,+2 laps,0,1117,2022-07-31
+20,77,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,65,DNF,0,1117,2022-07-31
+1,1,Max  Verstappen  VER,Red Bull Racing RBPT,66,1:37:20.475,25,1111,2022-05-22
+2,11,Sergio  Perez  PER,Red Bull Racing RBPT,66,+13.072s,19,1111,2022-05-22
+3,63,George  Russell  RUS,Mercedes,66,+32.927s,15,1111,2022-05-22
+4,55,Carlos  Sainz  SAI,Ferrari,66,+45.208s,12,1111,2022-05-22
+5,44,Lewis  Hamilton  HAM,Mercedes,66,+54.534s,10,1111,2022-05-22
+6,77,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,66,+59.976s,8,1111,2022-05-22
+7,31,Esteban  Ocon  OCO,Alpine Renault,66,+75.397s,6,1111,2022-05-22
+8,4,Lando  Norris  NOR,McLaren Mercedes,66,+83.235s,4,1111,2022-05-22
+9,14,Fernando  Alonso  ALO,Alpine Renault,65,+1 lap,2,1111,2022-05-22
+10,22,Yuki  Tsunoda  TSU,AlphaTauri RBPT,65,+1 lap,1,1111,2022-05-22
+11,5,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,65,+1 lap,0,1111,2022-05-22
+12,3,Daniel  Ricciardo  RIC,McLaren Mercedes,65,+1 lap,0,1111,2022-05-22
+13,10,Pierre  Gasly  GAS,AlphaTauri RBPT,65,+1 lap,0,1111,2022-05-22
+14,47,Mick  Schumacher  MSC,Haas Ferrari,65,+1 lap,0,1111,2022-05-22
+15,18,Lance  Stroll  STR,Aston Martin Aramco Mercedes,65,+1 lap,0,1111,2022-05-22
+16,6,Nicholas  Latifi  LAT,Williams Mercedes,64,+2 laps,0,1111,2022-05-22
+17,20,Kevin  Magnussen  MAG,Haas Ferrari,64,+2 laps,0,1111,2022-05-22
+18,23,Alexander  Albon  ALB,Williams Mercedes,64,+2 laps,0,1111,2022-05-22
+,24,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,28,DNF,0,1111,2022-05-22
+,16,Charles  Leclerc  LEC,Ferrari,27,DNF,0,1111,2022-05-22
+1,16,Charles  Leclerc  LEC,Ferrari,71,1:24:24.312,25,1115,2022-07-10
+2,1,Max  Verstappen  VER,Red Bull Racing RBPT,71,+1.532s,19,1115,2022-07-10
+3,44,Lewis  Hamilton  HAM,Mercedes,71,+41.217s,15,1115,2022-07-10
+4,63,George  Russell  RUS,Mercedes,71,+58.972s,12,1115,2022-07-10
+5,31,Esteban  Ocon  OCO,Alpine Renault,71,+68.436s,10,1115,2022-07-10
+6,47,Mick  Schumacher  MSC,Haas Ferrari,70,+1 lap,8,1115,2022-07-10
+7,4,Lando  Norris  NOR,McLaren Mercedes,70,+1 lap,6,1115,2022-07-10
+8,20,Kevin  Magnussen  MAG,Haas Ferrari,70,+1 lap,4,1115,2022-07-10
+9,3,Daniel  Ricciardo  RIC,McLaren Mercedes,70,+1 lap,2,1115,2022-07-10
+10,14,Fernando  Alonso  ALO,Alpine Renault,70,+1 lap,1,1115,2022-07-10
+11,77,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,70,+1 lap,0,1115,2022-07-10
+12,23,Alexander  Albon  ALB,Williams Mercedes,70,+1 lap,0,1115,2022-07-10
+13,18,Lance  Stroll  STR,Aston Martin Aramco Mercedes,70,+1 lap,0,1115,2022-07-10
+14,24,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,70,+1 lap,0,1115,2022-07-10
+15,10,Pierre  Gasly  GAS,AlphaTauri RBPT,70,+1 lap,0,1115,2022-07-10
+16,22,Yuki  Tsunoda  TSU,AlphaTauri RBPT,70,+1 lap,0,1115,2022-07-10
+17,5,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,70,+1 lap,0,1115,2022-07-10
+,55,Carlos  Sainz  SAI,Ferrari,56,DNF,0,1115,2022-07-10
+,6,Nicholas  Latifi  LAT,Williams Mercedes,48,DNF,0,1115,2022-07-10
+,11,Sergio  Perez  PER,Red Bull Racing RBPT,24,DNF,0,1115,2022-07-10
+1,1,Max  Verstappen  VER,Red Bull Racing RBPT,51,1:34:05.941,25,1126,2022-06-12
+2,11,Sergio  Perez  PER,Red Bull Racing RBPT,51,+20.823s,19,1126,2022-06-12
+3,63,George  Russell  RUS,Mercedes,51,+45.995s,15,1126,2022-06-12
+4,44,Lewis  Hamilton  HAM,Mercedes,51,+71.679s,12,1126,2022-06-12
+5,10,Pierre  Gasly  GAS,AlphaTauri RBPT,51,+77.299s,10,1126,2022-06-12
+6,5,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,51,+84.099s,8,1126,2022-06-12
+7,14,Fernando  Alonso  ALO,Alpine Renault,51,+88.596s,6,1126,2022-06-12
+8,3,Daniel  Ricciardo  RIC,McLaren Mercedes,51,+92.207s,4,1126,2022-06-12
+9,4,Lando  Norris  NOR,McLaren Mercedes,51,+92.556s,2,1126,2022-06-12
+10,31,Esteban  Ocon  OCO,Alpine Renault,51,+108.184s,1,1126,2022-06-12
+11,77,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,50,+1 lap,0,1126,2022-06-12
+12,23,Alexander  Albon  ALB,Williams Mercedes,50,+1 lap,0,1126,2022-06-12
+13,22,Yuki  Tsunoda  TSU,AlphaTauri RBPT,50,+1 lap,0,1126,2022-06-12
+14,47,Mick  Schumacher  MSC,Haas Ferrari,50,+1 lap,0,1126,2022-06-12
+15,6,Nicholas  Latifi  LAT,Williams Mercedes,50,+1 lap,0,1126,2022-06-12
+16,18,Lance  Stroll  STR,Aston Martin Aramco Mercedes,46,DNF,0,1126,2022-06-12
+,20,Kevin  Magnussen  MAG,Haas Ferrari,31,DNF,0,1126,2022-06-12
+,24,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,23,DNF,0,1126,2022-06-12
+,16,Charles  Leclerc  LEC,Ferrari,21,DNF,0,1126,2022-06-12
+,55,Carlos  Sainz  SAI,Ferrari,8,DNF,0,1126,2022-06-12
+1,1,Max  Verstappen  VER,Red Bull Racing RBPT,58,1:27:45.914,25,1138,2022-11-20
+2,16,Charles  Leclerc  LEC,Ferrari,58,+8.771s,18,1138,2022-11-20
+3,11,Sergio  Perez  PER,Red Bull Racing RBPT,58,+10.093s,15,1138,2022-11-20
+4,55,Carlos  Sainz  SAI,Ferrari,58,+24.892s,12,1138,2022-11-20
+5,63,George  Russell  RUS,Mercedes,58,+35.888s,10,1138,2022-11-20
+6,4,Lando  Norris  NOR,McLaren Mercedes,58,+56.234s,9,1138,2022-11-20
+7,31,Esteban  Ocon  OCO,Alpine Renault,58,+57.240s,6,1138,2022-11-20
+8,18,Lance  Stroll  STR,Aston Martin Aramco Mercedes,58,+76.931s,4,1138,2022-11-20
+9,3,Daniel  Ricciardo  RIC,McLaren Mercedes,58,+83.268s,2,1138,2022-11-20
+10,5,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,58,+83.898s,1,1138,2022-11-20
+11,22,Yuki  Tsunoda  TSU,AlphaTauri RBPT,58,+89.371s,0,1138,2022-11-20
+12,24,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,57,+1 lap,0,1138,2022-11-20
+13,23,Alexander  Albon  ALB,Williams Mercedes,57,+1 lap,0,1138,2022-11-20
+14,10,Pierre  Gasly  GAS,AlphaTauri RBPT,57,+1 lap,0,1138,2022-11-20
+15,77,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,57,+1 lap,0,1138,2022-11-20
+16,47,Mick  Schumacher  MSC,Haas Ferrari,57,+1 lap,0,1138,2022-11-20
+17,20,Kevin  Magnussen  MAG,Haas Ferrari,57,+1 lap,0,1138,2022-11-20
+18,44,Lewis  Hamilton  HAM,Mercedes,55,DNF,0,1138,2022-11-20
+19,6,Nicholas  Latifi  LAT,Williams Mercedes,55,DNF,0,1138,2022-11-20
+,14,Fernando  Alonso  ALO,Alpine Renault,27,DNF,0,1138,2022-11-20
+1,55,Carlos  Sainz  SAI,Ferrari,52,2:17:50.311,25,1114,2022-07-03
+2,11,Sergio  Perez  PER,Red Bull Racing RBPT,52,+3.779s,18,1114,2022-07-03
+3,44,Lewis  Hamilton  HAM,Mercedes,52,+6.225s,16,1114,2022-07-03
+4,16,Charles  Leclerc  LEC,Ferrari,52,+8.546s,12,1114,2022-07-03
+5,14,Fernando  Alonso  ALO,Alpine Renault,52,+9.571s,10,1114,2022-07-03
+6,4,Lando  Norris  NOR,McLaren Mercedes,52,+11.943s,8,1114,2022-07-03
+7,1,Max  Verstappen  VER,Red Bull Racing RBPT,52,+18.777s,6,1114,2022-07-03
+8,47,Mick  Schumacher  MSC,Haas Ferrari,52,+18.995s,4,1114,2022-07-03
+9,5,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,52,+22.356s,2,1114,2022-07-03
+10,20,Kevin  Magnussen  MAG,Haas Ferrari,52,+24.590s,1,1114,2022-07-03
+11,18,Lance  Stroll  STR,Aston Martin Aramco Mercedes,52,+26.147s,0,1114,2022-07-03
+12,6,Nicholas  Latifi  LAT,Williams Mercedes,52,+32.511s,0,1114,2022-07-03
+13,3,Daniel  Ricciardo  RIC,McLaren Mercedes,52,+32.817s,0,1114,2022-07-03
+14,22,Yuki  Tsunoda  TSU,AlphaTauri RBPT,52,+40.910s,0,1114,2022-07-03
+,31,Esteban  Ocon  OCO,Alpine Renault,37,DNF,0,1114,2022-07-03
+,10,Pierre  Gasly  GAS,AlphaTauri RBPT,26,DNF,0,1114,2022-07-03
+,77,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,20,DNF,0,1114,2022-07-03
+,63,George  Russell  RUS,Mercedes,0,DNF,0,1114,2022-07-03
+,24,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,0,DNF,0,1114,2022-07-03
+,23,Alexander  Albon  ALB,Williams Mercedes,0,DNF,0,1114,2022-07-03
+1,1,Max  Verstappen  VER,Red Bull Racing RBPT,56,1:42:11.687,25,1135,2022-10-23
+2,44,Lewis  Hamilton  HAM,Mercedes,56,+5.023s,18,1135,2022-10-23
+3,16,Charles  Leclerc  LEC,Ferrari,56,+7.501s,15,1135,2022-10-23
+4,11,Sergio  Perez  PER,Red Bull Racing RBPT,56,+8.293s,12,1135,2022-10-23
+5,63,George  Russell  RUS,Mercedes,56,+44.815s,11,1135,2022-10-23
+6,4,Lando  Norris  NOR,McLaren Mercedes,56,+53.785s,8,1135,2022-10-23
+7,14,Fernando  Alonso  ALO,Alpine Renault,56,+55.078s,6,1135,2022-10-23
+8,5,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,56,+65.354s,4,1135,2022-10-23
+9,20,Kevin  Magnussen  MAG,Haas Ferrari,56,+65.834s,2,1135,2022-10-23
+10,22,Yuki  Tsunoda  TSU,AlphaTauri RBPT,56,+70.919s,1,1135,2022-10-23
+11,31,Esteban  Ocon  OCO,Alpine Renault,56,+72.875s,0,1135,2022-10-23
+12,24,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,56,+76.164s,0,1135,2022-10-23
+13,23,Alexander  Albon  ALB,Williams Mercedes,56,+80.057s,0,1135,2022-10-23
+14,10,Pierre  Gasly  GAS,AlphaTauri RBPT,56,+81.763s,0,1135,2022-10-23
+15,47,Mick  Schumacher  MSC,Haas Ferrari,56,+84.490s,0,1135,2022-10-23
+16,3,Daniel  Ricciardo  RIC,McLaren Mercedes,56,+90.487s,0,1135,2022-10-23
+17,6,Nicholas  Latifi  LAT,Williams Mercedes,56,+103.588s,0,1135,2022-10-23
+,18,Lance  Stroll  STR,Aston Martin Aramco Mercedes,21,DNF,0,1135,2022-10-23
+,77,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,16,DNF,0,1135,2022-10-23
+,55,Carlos  Sainz  SAI,Ferrari,1,DNF,0,1135,2022-10-23
+1,1,Max  Verstappen  VER,Red Bull Racing RBPT,50,1:24:19.293,25,1125,2022-03-27
+2,16,Charles  Leclerc  LEC,Ferrari,50,+0.549s,19,1125,2022-03-27
+3,55,Carlos  Sainz  SAI,Ferrari,50,+8.097s,15,1125,2022-03-27
+4,11,Sergio  Perez  PER,Red Bull Racing RBPT,50,+10.800s,12,1125,2022-03-27
+5,63,George  Russell  RUS,Mercedes,50,+32.732s,10,1125,2022-03-27
+6,31,Esteban  Ocon  OCO,Alpine Renault,50,+56.017s,8,1125,2022-03-27
+7,4,Lando  Norris  NOR,McLaren Mercedes,50,+56.124s,6,1125,2022-03-27
+8,10,Pierre  Gasly  GAS,AlphaTauri RBPT,50,+62.946s,4,1125,2022-03-27
+9,20,Kevin  Magnussen  MAG,Haas Ferrari,50,+64.308s,2,1125,2022-03-27
+10,44,Lewis  Hamilton  HAM,Mercedes,50,+73.948s,1,1125,2022-03-27
+11,24,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,50,+82.215s,0,1125,2022-03-27
+12,27,Nico  Hulkenberg  HUL,Aston Martin Aramco Mercedes,50,+91.742s,0,1125,2022-03-27
+13,18,Lance  Stroll  STR,Aston Martin Aramco Mercedes,49,+1 lap,0,1125,2022-03-27
+14,23,Alexander  Albon  ALB,Williams Mercedes,47,DNF,0,1125,2022-03-27
+,77,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,36,DNF,0,1125,2022-03-27
+,14,Fernando  Alonso  ALO,Alpine Renault,35,DNF,0,1125,2022-03-27
+,3,Daniel  Ricciardo  RIC,McLaren Mercedes,35,DNF,0,1125,2022-03-27
+,6,Nicholas  Latifi  LAT,Williams Mercedes,14,DNF,0,1125,2022-03-27
+,22,Yuki  Tsunoda  TSU,AlphaTauri RBPT,0,DNS,0,1125,2022-03-27
+,47,Mick  Schumacher  MSC,Haas Ferrari,0,DNS,0,1125,2022-03-27
+1,1,Max  Verstappen  VER,Red Bull Racing RBPT,28,3:01:44.004,25,1134,2022-10-09
+2,11,Sergio  Perez  PER,Red Bull Racing RBPT,28,+27.066s,18,1134,2022-10-09
+3,16,Charles  Leclerc  LEC,Ferrari,28,+31.763s,15,1134,2022-10-09
+4,31,Esteban  Ocon  OCO,Alpine Renault,28,+39.685s,12,1134,2022-10-09
+5,44,Lewis  Hamilton  HAM,Mercedes,28,+40.326s,10,1134,2022-10-09
+6,5,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,28,+46.358s,8,1134,2022-10-09
+7,14,Fernando  Alonso  ALO,Alpine Renault,28,+46.369s,6,1134,2022-10-09
+8,63,George  Russell  RUS,Mercedes,28,+47.661s,4,1134,2022-10-09
+9,6,Nicholas  Latifi  LAT,Williams Mercedes,28,+70.143s,2,1134,2022-10-09
+10,4,Lando  Norris  NOR,McLaren Mercedes,28,+70.782s,1,1134,2022-10-09
+11,3,Daniel  Ricciardo  RIC,McLaren Mercedes,28,+72.877s,0,1134,2022-10-09
+12,18,Lance  Stroll  STR,Aston Martin Aramco Mercedes,28,+73.904s,0,1134,2022-10-09
+13,22,Yuki  Tsunoda  TSU,AlphaTauri RBPT,28,+75.599s,0,1134,2022-10-09
+14,20,Kevin  Magnussen  MAG,Haas Ferrari,28,+86.016s,0,1134,2022-10-09
+15,77,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,28,+86.496s,0,1134,2022-10-09
+16,24,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,28,+87.043s,0,1134,2022-10-09
+17,47,Mick  Schumacher  MSC,Haas Ferrari,28,+92.523s,0,1134,2022-10-09
+18,10,Pierre  Gasly  GAS,AlphaTauri RBPT,28,+108.091s,0,1134,2022-10-09
+,55,Carlos  Sainz  SAI,Ferrari,0,DNF,0,1134,2022-10-09
+,23,Alexander  Albon  ALB,Williams Mercedes,0,DNF,0,1134,2022-10-09
+1,1,Max  Verstappen  VER,Red Bull Racing RBPT,57,1:34:24.258,26,1110,2022-05-08
+2,16,Charles  Leclerc  LEC,Ferrari,57,+3.786s,18,1110,2022-05-08
+3,55,Carlos  Sainz  SAI,Ferrari,57,+8.229s,15,1110,2022-05-08
+4,11,Sergio  Perez  PER,Red Bull Racing RBPT,57,+10.638s,12,1110,2022-05-08
+5,63,George  Russell  RUS,Mercedes,57,+18.582s,10,1110,2022-05-08
+6,44,Lewis  Hamilton  HAM,Mercedes,57,+21.368s,8,1110,2022-05-08
+7,77,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,57,+25.073s,6,1110,2022-05-08
+8,31,Esteban  Ocon  OCO,Alpine Renault,57,+28.386s,4,1110,2022-05-08
+9,23,Alexander  Albon  ALB,Williams Mercedes,57,+32.365s,2,1110,2022-05-08
+10,18,Lance  Stroll  STR,Aston Martin Aramco Mercedes,57,+37.026s,1,1110,2022-05-08
+11,14,Fernando  Alonso  ALO,Alpine Renault,57,+37.128s,0,1110,2022-05-08
+12,22,Yuki  Tsunoda  TSU,AlphaTauri RBPT,57,+40.146s,0,1110,2022-05-08
+13,3,Daniel  Ricciardo  RIC,McLaren Mercedes,57,+40.902s,0,1110,2022-05-08
+14,6,Nicholas  Latifi  LAT,Williams Mercedes,57,+49.936s,0,1110,2022-05-08
+15,47,Mick  Schumacher  MSC,Haas Ferrari,57,+73.305s,0,1110,2022-05-08
+16,20,Kevin  Magnussen  MAG,Haas Ferrari,56,DNF,0,1110,2022-05-08
+17,5,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,54,DNF,0,1110,2022-05-08
+,10,Pierre  Gasly  GAS,AlphaTauri RBPT,45,DNF,0,1110,2022-05-08
+,4,Lando  Norris  NOR,McLaren Mercedes,39,DNF,0,1110,2022-05-08
+,24,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,6,DNF,0,1110,2022-05-08
+1,1,Max  Verstappen  VER,Red Bull Racing RBPT,53,1:20:27.511,25,1120,2022-09-11
+2,16,Charles  Leclerc  LEC,Ferrari,53,+2.446s,18,1120,2022-09-11
+3,63,George  Russell  RUS,Mercedes,53,+3.405s,15,1120,2022-09-11
+4,55,Carlos  Sainz  SAI,Ferrari,53,+5.061s,12,1120,2022-09-11
+5,44,Lewis  Hamilton  HAM,Mercedes,53,+5.380s,10,1120,2022-09-11
+6,11,Sergio  Perez  PER,Red Bull Racing RBPT,53,+6.091s,9,1120,2022-09-11
+7,4,Lando  Norris  NOR,McLaren Mercedes,53,+6.207s,6,1120,2022-09-11
+8,10,Pierre  Gasly  GAS,AlphaTauri RBPT,53,+6.396s,4,1120,2022-09-11
+9,45,Nyck  De Vries  DEV,Williams Mercedes,53,+7.122s,2,1120,2022-09-11
+10,24,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,53,+7.910s,1,1120,2022-09-11
+11,31,Esteban  Ocon  OCO,Alpine Renault,53,+8.323s,0,1120,2022-09-11
+12,47,Mick  Schumacher  MSC,Haas Ferrari,53,+8.549s,0,1120,2022-09-11
+13,77,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,52,+1 lap,0,1120,2022-09-11
+14,22,Yuki  Tsunoda  TSU,AlphaTauri RBPT,52,+1 lap,0,1120,2022-09-11
+15,6,Nicholas  Latifi  LAT,Williams Mercedes,52,+1 lap,0,1120,2022-09-11
+16,20,Kevin  Magnussen  MAG,Haas Ferrari,52,+1 lap,0,1120,2022-09-11
+,3,Daniel  Ricciardo  RIC,McLaren Mercedes,45,DNF,0,1120,2022-09-11
+,18,Lance  Stroll  STR,Aston Martin Aramco Mercedes,39,DNF,0,1120,2022-09-11
+,14,Fernando  Alonso  ALO,Alpine Renault,31,DNF,0,1120,2022-09-11
+,5,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,10,DNF,0,1120,2022-09-11
+1,1,Max  Verstappen  VER,Red Bull Racing RBPT,63,1:32:07.986,26,1109,2022-04-24
+2,11,Sergio  Perez  PER,Red Bull Racing RBPT,63,+16.527s,18,1109,2022-04-24
+3,4,Lando  Norris  NOR,McLaren Mercedes,63,+34.834s,15,1109,2022-04-24
+4,63,George  Russell  RUS,Mercedes,63,+42.506s,12,1109,2022-04-24
+5,77,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,63,+43.181s,10,1109,2022-04-24
+6,16,Charles  Leclerc  LEC,Ferrari,63,+56.072s,8,1109,2022-04-24
+7,22,Yuki  Tsunoda  TSU,AlphaTauri RBPT,63,+61.110s,6,1109,2022-04-24
+8,5,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,63,+70.892s,4,1109,2022-04-24
+9,20,Kevin  Magnussen  MAG,Haas Ferrari,63,+75.260s,2,1109,2022-04-24
+10,18,Lance  Stroll  STR,Aston Martin Aramco Mercedes,62,+1 lap,1,1109,2022-04-24
+11,23,Alexander  Albon  ALB,Williams Mercedes,62,+1 lap,0,1109,2022-04-24
+12,10,Pierre  Gasly  GAS,AlphaTauri RBPT,62,+1 lap,0,1109,2022-04-24
+13,44,Lewis  Hamilton  HAM,Mercedes,62,+1 lap,0,1109,2022-04-24
+14,31,Esteban  Ocon  OCO,Alpine Renault,62,+1 lap,0,1109,2022-04-24
+15,24,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,62,+1 lap,0,1109,2022-04-24
+16,6,Nicholas  Latifi  LAT,Williams Mercedes,62,+1 lap,0,1109,2022-04-24
+17,47,Mick  Schumacher  MSC,Haas Ferrari,62,+1 lap,0,1109,2022-04-24
+18,3,Daniel  Ricciardo  RIC,McLaren Mercedes,62,+1 lap,0,1109,2022-04-24
+,14,Fernando  Alonso  ALO,Alpine Renault,6,DNF,0,1109,2022-04-24
+,55,Carlos  Sainz  SAI,Ferrari,0,DNF,0,1109,2022-04-24
+1,16,Charles  Leclerc  LEC,Ferrari,58,1:27:46.548,26,1108,2022-04-10
+2,11,Sergio  Perez  PER,Red Bull Racing RBPT,58,+20.524s,18,1108,2022-04-10
+3,63,George  Russell  RUS,Mercedes,58,+25.593s,15,1108,2022-04-10
+4,44,Lewis  Hamilton  HAM,Mercedes,58,+28.543s,12,1108,2022-04-10
+5,4,Lando  Norris  NOR,McLaren Mercedes,58,+53.303s,10,1108,2022-04-10
+6,3,Daniel  Ricciardo  RIC,McLaren Mercedes,58,+53.737s,8,1108,2022-04-10
+7,31,Esteban  Ocon  OCO,Alpine Renault,58,+61.683s,6,1108,2022-04-10
+8,77,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,58,+68.439s,4,1108,2022-04-10
+9,10,Pierre  Gasly  GAS,AlphaTauri RBPT,58,+76.221s,2,1108,2022-04-10
+10,23,Alexander  Albon  ALB,Williams Mercedes,58,+79.382s,1,1108,2022-04-10
+11,24,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,58,+81.695s,0,1108,2022-04-10
+12,18,Lance  Stroll  STR,Aston Martin Aramco Mercedes,58,+88.598s,0,1108,2022-04-10
+13,47,Mick  Schumacher  MSC,Haas Ferrari,57,+1 lap,0,1108,2022-04-10
+14,20,Kevin  Magnussen  MAG,Haas Ferrari,57,+1 lap,0,1108,2022-04-10
+15,22,Yuki  Tsunoda  TSU,AlphaTauri RBPT,57,+1 lap,0,1108,2022-04-10
+16,6,Nicholas  Latifi  LAT,Williams Mercedes,57,+1 lap,0,1108,2022-04-10
+17,14,Fernando  Alonso  ALO,Alpine Renault,57,+1 lap,0,1108,2022-04-10
+,1,Max  Verstappen  VER,Red Bull Racing RBPT,38,DNF,0,1108,2022-04-10
+,5,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,22,DNF,0,1108,2022-04-10
+,55,Carlos  Sainz  SAI,Ferrari,1,DNF,0,1108,2022-04-10
+1,63,George  Russell  RUS,Mercedes,71,1:38:34.044,26,1137,2022-11-13
+2,44,Lewis  Hamilton  HAM,Mercedes,71,+1.529s,18,1137,2022-11-13
+3,55,Carlos  Sainz  SAI,Ferrari,71,+4.051s,15,1137,2022-11-13
+4,16,Charles  Leclerc  LEC,Ferrari,71,+8.441s,12,1137,2022-11-13
+5,14,Fernando  Alonso  ALO,Alpine Renault,71,+9.561s,10,1137,2022-11-13
+6,1,Max  Verstappen  VER,Red Bull Racing RBPT,71,+10.056s,8,1137,2022-11-13
+7,11,Sergio  Perez  PER,Red Bull Racing RBPT,71,+14.080s,6,1137,2022-11-13
+8,31,Esteban  Ocon  OCO,Alpine Renault,71,+18.690s,4,1137,2022-11-13
+9,77,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,71,+22.552s,2,1137,2022-11-13
+10,18,Lance  Stroll  STR,Aston Martin Aramco Mercedes,71,+23.552s,1,1137,2022-11-13
+11,5,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,71,+26.183s,0,1137,2022-11-13
+12,24,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,71,+29.325s,0,1137,2022-11-13
+13,47,Mick  Schumacher  MSC,Haas Ferrari,71,+29.899s,0,1137,2022-11-13
+14,10,Pierre  Gasly  GAS,AlphaTauri RBPT,71,+31.867s,0,1137,2022-11-13
+15,23,Alexander  Albon  ALB,Williams Mercedes,71,+36.016s,0,1137,2022-11-13
+16,6,Nicholas  Latifi  LAT,Williams Mercedes,71,+37.038s,0,1137,2022-11-13
+17,22,Yuki  Tsunoda  TSU,AlphaTauri RBPT,70,+1 lap,0,1137,2022-11-13
+,4,Lando  Norris  NOR,McLaren Mercedes,50,DNF,0,1137,2022-11-13
+,20,Kevin  Magnussen  MAG,Haas Ferrari,0,DNF,0,1137,2022-11-13
+,3,Daniel  Ricciardo  RIC,McLaren Mercedes,0,DNF,0,1137,2022-11-13
+1,1,Max  Verstappen  VER,Red Bull Racing RBPT,53,1:30:02.112,25,1116,2022-07-24
+2,44,Lewis  Hamilton  HAM,Mercedes,53,+10.587s,18,1116,2022-07-24
+3,63,George  Russell  RUS,Mercedes,53,+16.495s,15,1116,2022-07-24
+4,11,Sergio  Perez  PER,Red Bull Racing RBPT,53,+17.310s,12,1116,2022-07-24
+5,55,Carlos  Sainz  SAI,Ferrari,53,+28.872s,11,1116,2022-07-24
+6,14,Fernando  Alonso  ALO,Alpine Renault,53,+42.879s,8,1116,2022-07-24
+7,4,Lando  Norris  NOR,McLaren Mercedes,53,+52.026s,6,1116,2022-07-24
+8,31,Esteban  Ocon  OCO,Alpine Renault,53,+56.959s,4,1116,2022-07-24
+9,3,Daniel  Ricciardo  RIC,McLaren Mercedes,53,+60.372s,2,1116,2022-07-24
+10,18,Lance  Stroll  STR,Aston Martin Aramco Mercedes,53,+62.549s,1,1116,2022-07-24
+11,5,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,53,+64.494s,0,1116,2022-07-24
+12,10,Pierre  Gasly  GAS,AlphaTauri RBPT,53,+65.448s,0,1116,2022-07-24
+13,23,Alexander  Albon  ALB,Williams Mercedes,53,+68.565s,0,1116,2022-07-24
+14,77,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,53,+76.666s,0,1116,2022-07-24
+15,47,Mick  Schumacher  MSC,Haas Ferrari,53,+80.394s,0,1116,2022-07-24
+16,24,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,47,+6 laps,0,1116,2022-07-24
+,6,Nicholas  Latifi  LAT,Williams Mercedes,40,DNF,0,1116,2022-07-24
+,20,Kevin  Magnussen  MAG,Haas Ferrari,37,DNF,0,1116,2022-07-24
+,16,Charles  Leclerc  LEC,Ferrari,17,DNF,0,1116,2022-07-24
+,22,Yuki  Tsunoda  TSU,AlphaTauri RBPT,17,DNF,0,1116,2022-07-24
+1,11,Sergio  Perez  PER,Red Bull Racing RBPT,59,2:02:20.238,25,1133,2022-10-02
+2,16,Charles  Leclerc  LEC,Ferrari,59,+2.595s,18,1133,2022-10-02
+3,55,Carlos  Sainz  SAI,Ferrari,59,+10.305s,15,1133,2022-10-02
+4,4,Lando  Norris  NOR,McLaren Mercedes,59,+21.133s,12,1133,2022-10-02
+5,3,Daniel  Ricciardo  RIC,McLaren Mercedes,59,+53.282s,10,1133,2022-10-02
+6,18,Lance  Stroll  STR,Aston Martin Aramco Mercedes,59,+56.330s,8,1133,2022-10-02
+7,1,Max  Verstappen  VER,Red Bull Racing RBPT,59,+58.825s,6,1133,2022-10-02
+8,5,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,59,+60.032s,4,1133,2022-10-02
+9,44,Lewis  Hamilton  HAM,Mercedes,59,+61.515s,2,1133,2022-10-02
+10,10,Pierre  Gasly  GAS,AlphaTauri RBPT,59,+69.576s,1,1133,2022-10-02
+11,77,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,59,+88.844s,0,1133,2022-10-02
+12,20,Kevin  Magnussen  MAG,Haas Ferrari,59,+92.610s,0,1133,2022-10-02
+13,47,Mick  Schumacher  MSC,Haas Ferrari,58,+1 lap,0,1133,2022-10-02
+14,63,George  Russell  RUS,Mercedes,57,+2 laps,0,1133,2022-10-02
+,22,Yuki  Tsunoda  TSU,AlphaTauri RBPT,34,DNF,0,1133,2022-10-02
+,31,Esteban  Ocon  OCO,Alpine Renault,26,DNF,0,1133,2022-10-02
+,23,Alexander  Albon  ALB,Williams Mercedes,25,DNF,0,1133,2022-10-02
+,14,Fernando  Alonso  ALO,Alpine Renault,20,DNF,0,1133,2022-10-02
+,6,Nicholas  Latifi  LAT,Williams Mercedes,7,DNF,0,1133,2022-10-02
+,24,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,6,DNF,0,1133,2022-10-02
+1,1,Max  Verstappen  VER,Red Bull Racing RBPT,44,1:25:52.894,26,1118,2022-08-28
+2,11,Sergio  Perez  PER,Red Bull Racing RBPT,44,+17.841s,18,1118,2022-08-28
+3,55,Carlos  Sainz  SAI,Ferrari,44,+26.886s,15,1118,2022-08-28
+4,63,George  Russell  RUS,Mercedes,44,+29.140s,12,1118,2022-08-28
+5,14,Fernando  Alonso  ALO,Alpine Renault,44,+73.256s,10,1118,2022-08-28
+6,16,Charles  Leclerc  LEC,Ferrari,44,+74.936s,8,1118,2022-08-28
+7,31,Esteban  Ocon  OCO,Alpine Renault,44,+75.640s,6,1118,2022-08-28
+8,5,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,44,+78.107s,4,1118,2022-08-28
+9,10,Pierre  Gasly  GAS,AlphaTauri RBPT,44,+92.181s,2,1118,2022-08-28
+10,23,Alexander  Albon  ALB,Williams Mercedes,44,+101.900s,1,1118,2022-08-28
+11,18,Lance  Stroll  STR,Aston Martin Aramco Mercedes,44,+103.078s,0,1118,2022-08-28
+12,4,Lando  Norris  NOR,McLaren Mercedes,44,+104.739s,0,1118,2022-08-28
+13,22,Yuki  Tsunoda  TSU,AlphaTauri RBPT,44,+105.217s,0,1118,2022-08-28
+14,24,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,44,+106.252s,0,1118,2022-08-28
+15,3,Daniel  Ricciardo  RIC,McLaren Mercedes,44,+107.163s,0,1118,2022-08-28
+16,20,Kevin  Magnussen  MAG,Haas Ferrari,43,+1 lap,0,1118,2022-08-28
+17,47,Mick  Schumacher  MSC,Haas Ferrari,43,+1 lap,0,1118,2022-08-28
+18,6,Nicholas  Latifi  LAT,Williams Mercedes,43,+1 lap,0,1118,2022-08-28
+,77,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,1,DNF,0,1118,2022-08-28
+,44,Lewis  Hamilton  HAM,Mercedes,0,DNF,0,1118,2022-08-28
+1,1,Max  Verstappen  VER,Red Bull Racing RBPT,71,1:38:36.729,25,1136,2022-10-30
+2,44,Lewis  Hamilton  HAM,Mercedes,71,+15.186s,18,1136,2022-10-30
+3,11,Sergio  Perez  PER,Red Bull Racing RBPT,71,+18.097s,15,1136,2022-10-30
+4,63,George  Russell  RUS,Mercedes,71,+49.431s,13,1136,2022-10-30
+5,55,Carlos  Sainz  SAI,Ferrari,71,+58.123s,10,1136,2022-10-30
+6,16,Charles  Leclerc  LEC,Ferrari,71,+68.774s,8,1136,2022-10-30
+7,3,Daniel  Ricciardo  RIC,McLaren Mercedes,70,+1 lap,6,1136,2022-10-30
+8,31,Esteban  Ocon  OCO,Alpine Renault,70,+1 lap,4,1136,2022-10-30
+9,4,Lando  Norris  NOR,McLaren Mercedes,70,+1 lap,2,1136,2022-10-30
+10,77,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,70,+1 lap,1,1136,2022-10-30
+11,10,Pierre  Gasly  GAS,AlphaTauri RBPT,70,+1 lap,0,1136,2022-10-30
+12,23,Alexander  Albon  ALB,Williams Mercedes,70,+1 lap,0,1136,2022-10-30
+13,24,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,70,+1 lap,0,1136,2022-10-30
+14,5,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,70,+1 lap,0,1136,2022-10-30
+15,18,Lance  Stroll  STR,Aston Martin Aramco Mercedes,70,+1 lap,0,1136,2022-10-30
+16,47,Mick  Schumacher  MSC,Haas Ferrari,70,+1 lap,0,1136,2022-10-30
+17,20,Kevin  Magnussen  MAG,Haas Ferrari,70,+1 lap,0,1136,2022-10-30
+18,6,Nicholas  Latifi  LAT,Williams Mercedes,69,+2 laps,0,1136,2022-10-30
+19,14,Fernando  Alonso  ALO,Alpine Renault,63,DNF,0,1136,2022-10-30
+,22,Yuki  Tsunoda  TSU,AlphaTauri RBPT,50,DNF,0,1136,2022-10-30
+1,11,Sergio  Perez  PER,Red Bull Racing RBPT,64,1:56:30.265,25,1112,2022-05-29
+2,55,Carlos  Sainz  SAI,Ferrari,64,+1.154s,18,1112,2022-05-29
+3,1,Max  Verstappen  VER,Red Bull Racing RBPT,64,+1.491s,15,1112,2022-05-29
+4,16,Charles  Leclerc  LEC,Ferrari,64,+2.922s,12,1112,2022-05-29
+5,63,George  Russell  RUS,Mercedes,64,+11.968s,10,1112,2022-05-29
+6,4,Lando  Norris  NOR,McLaren Mercedes,64,+12.231s,9,1112,2022-05-29
+7,14,Fernando  Alonso  ALO,Alpine Renault,64,+46.358s,6,1112,2022-05-29
+8,44,Lewis  Hamilton  HAM,Mercedes,64,+50.388s,4,1112,2022-05-29
+9,77,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,64,+52.525s,2,1112,2022-05-29
+10,5,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,64,+53.536s,1,1112,2022-05-29
+11,10,Pierre  Gasly  GAS,AlphaTauri RBPT,64,+54.289s,0,1112,2022-05-29
+12,31,Esteban  Ocon  OCO,Alpine Renault,64,+55.644s,0,1112,2022-05-29
+13,3,Daniel  Ricciardo  RIC,McLaren Mercedes,64,+57.635s,0,1112,2022-05-29
+14,18,Lance  Stroll  STR,Aston Martin Aramco Mercedes,64,+60.802s,0,1112,2022-05-29
+15,6,Nicholas  Latifi  LAT,Williams Mercedes,63,+1 lap,0,1112,2022-05-29
+16,24,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,63,+1 lap,0,1112,2022-05-29
+17,22,Yuki  Tsunoda  TSU,AlphaTauri RBPT,63,+1 lap,0,1112,2022-05-29
+,23,Alexander  Albon  ALB,Williams Mercedes,48,DNF,0,1112,2022-05-29
+,47,Mick  Schumacher  MSC,Haas Ferrari,24,DNF,0,1112,2022-05-29
+,20,Kevin  Magnussen  MAG,Haas Ferrari,19,DNF,0,1112,2022-05-29
+1,1,Max  Verstappen  VER,Red Bull Racing RBPT,72,1:36:42.773,26,1119,2022-09-04
+2,63,George  Russell  RUS,Mercedes,72,+4.071s,18,1119,2022-09-04
+3,16,Charles  Leclerc  LEC,Ferrari,72,+10.929s,15,1119,2022-09-04
+4,44,Lewis  Hamilton  HAM,Mercedes,72,+13.016s,12,1119,2022-09-04
+5,11,Sergio  Perez  PER,Red Bull Racing RBPT,72,+18.168s,10,1119,2022-09-04
+6,14,Fernando  Alonso  ALO,Alpine Renault,72,+18.754s,8,1119,2022-09-04
+7,4,Lando  Norris  NOR,McLaren Mercedes,72,+19.306s,6,1119,2022-09-04
+8,55,Carlos  Sainz  SAI,Ferrari,72,+20.916s,4,1119,2022-09-04
+9,31,Esteban  Ocon  OCO,Alpine Renault,72,+21.117s,2,1119,2022-09-04
+10,18,Lance  Stroll  STR,Aston Martin Aramco Mercedes,72,+22.459s,1,1119,2022-09-04
+11,10,Pierre  Gasly  GAS,AlphaTauri RBPT,72,+27.009s,0,1119,2022-09-04
+12,23,Alexander  Albon  ALB,Williams Mercedes,72,+30.390s,0,1119,2022-09-04
+13,47,Mick  Schumacher  MSC,Haas Ferrari,72,+32.995s,0,1119,2022-09-04
+14,5,Sebastian  Vettel  VET,Aston Martin Aramco Mercedes,72,+36.007s,0,1119,2022-09-04
+15,20,Kevin  Magnussen  MAG,Haas Ferrari,72,+36.869s,0,1119,2022-09-04
+16,24,Zhou  Guanyu  ZHO,Alfa Romeo Ferrari,72,+37.320s,0,1119,2022-09-04
+17,3,Daniel  Ricciardo  RIC,McLaren Mercedes,72,+37.764s,0,1119,2022-09-04
+18,6,Nicholas  Latifi  LAT,Williams Mercedes,71,+1 lap,0,1119,2022-09-04
+,77,Valtteri  Bottas  BOT,Alfa Romeo Ferrari,53,DNF,0,1119,2022-09-04
+,22,Yuki  Tsunoda  TSU,AlphaTauri RBPT,43,DNF,0,1119,2022-09-04
+1,33,Max  Verstappen  VER,Red Bull Racing Honda,71,1:23:54.543,26,1071,2021-07-04
+2,77,Valtteri  Bottas  BOT,Mercedes,71,+17.973s,18,1071,2021-07-04
+3,4,Lando  Norris  NOR,McLaren Mercedes,71,+20.019s,15,1071,2021-07-04
+4,44,Lewis  Hamilton  HAM,Mercedes,71,+46.452s,12,1071,2021-07-04
+5,55,Carlos  Sainz  SAI,Ferrari,71,+57.144s,10,1071,2021-07-04
+6,11,Sergio  Perez  PER,Red Bull Racing Honda,71,+57.915s,8,1071,2021-07-04
+7,3,Daniel  Ricciardo  RIC,McLaren Mercedes,71,+60.395s,6,1071,2021-07-04
+8,16,Charles  Leclerc  LEC,Ferrari,71,+61.195s,4,1071,2021-07-04
+9,10,Pierre  Gasly  GAS,AlphaTauri Honda,71,+61.844s,2,1071,2021-07-04
+10,14,Fernando  Alonso  ALO,Alpine Renault,70,+1 lap,1,1071,2021-07-04
+11,63,George  Russell  RUS,Williams Mercedes,70,+1 lap,0,1071,2021-07-04
+12,22,Yuki  Tsunoda  TSU,AlphaTauri Honda,70,+1 lap,0,1071,2021-07-04
+13,18,Lance  Stroll  STR,Aston Martin Mercedes,70,+1 lap,0,1071,2021-07-04
+14,99,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,70,+1 lap,0,1071,2021-07-04
+15,7,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,70,+1 lap,0,1071,2021-07-04
+16,6,Nicholas  Latifi  LAT,Williams Mercedes,70,+1 lap,0,1071,2021-07-04
+17,5,Sebastian  Vettel  VET,Aston Martin Mercedes,69,DNF,0,1071,2021-07-04
+18,47,Mick  Schumacher  MSC,Haas Ferrari,69,+2 laps,0,1071,2021-07-04
+19,9,Nikita  Mazepin  MAZ,Haas Ferrari,69,+2 laps,0,1071,2021-07-04
+,31,Esteban  Ocon  OCO,Alpine Renault,0,DNF,0,1071,2021-07-04
+1,77,Valtteri  Bottas  BOT,Mercedes,58,1:31:04.103,26,1078,2021-10-10
+2,33,Max  Verstappen  VER,Red Bull Racing Honda,58,+14.584s,18,1078,2021-10-10
+3,11,Sergio  Perez  PER,Red Bull Racing Honda,58,+33.471s,15,1078,2021-10-10
+4,16,Charles  Leclerc  LEC,Ferrari,58,+37.814s,12,1078,2021-10-10
+5,44,Lewis  Hamilton  HAM,Mercedes,58,+41.812s,10,1078,2021-10-10
+6,10,Pierre  Gasly  GAS,AlphaTauri Honda,58,+44.292s,8,1078,2021-10-10
+7,4,Lando  Norris  NOR,McLaren Mercedes,58,+47.213s,6,1078,2021-10-10
+8,55,Carlos  Sainz  SAI,Ferrari,58,+51.526s,4,1078,2021-10-10
+9,18,Lance  Stroll  STR,Aston Martin Mercedes,58,+82.018s,2,1078,2021-10-10
+10,31,Esteban  Ocon  OCO,Alpine Renault,57,+1 lap,1,1078,2021-10-10
+11,99,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,57,+1 lap,0,1078,2021-10-10
+12,7,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,57,+1 lap,0,1078,2021-10-10
+13,3,Daniel  Ricciardo  RIC,McLaren Mercedes,57,+1 lap,0,1078,2021-10-10
+14,22,Yuki  Tsunoda  TSU,AlphaTauri Honda,57,+1 lap,0,1078,2021-10-10
+15,63,George  Russell  RUS,Williams Mercedes,57,+1 lap,0,1078,2021-10-10
+16,14,Fernando  Alonso  ALO,Alpine Renault,57,+1 lap,0,1078,2021-10-10
+17,6,Nicholas  Latifi  LAT,Williams Mercedes,57,+1 lap,0,1078,2021-10-10
+18,5,Sebastian  Vettel  VET,Aston Martin Mercedes,57,+1 lap,0,1078,2021-10-10
+19,47,Mick  Schumacher  MSC,Haas Ferrari,56,+2 laps,0,1078,2021-10-10
+20,9,Nikita  Mazepin  MAZ,Haas Ferrari,56,+2 laps,0,1078,2021-10-10
+1,44,Lewis  Hamilton  HAM,Mercedes,57,1:24:28.471,25,1105,2021-11-21
+2,33,Max  Verstappen  VER,Red Bull Racing Honda,57,+25.743s,19,1105,2021-11-21
+3,14,Fernando  Alonso  ALO,Alpine Renault,57,+59.457s,15,1105,2021-11-21
+4,11,Sergio  Perez  PER,Red Bull Racing Honda,57,+62.306s,12,1105,2021-11-21
+5,31,Esteban  Ocon  OCO,Alpine Renault,57,+80.570s,10,1105,2021-11-21
+6,18,Lance  Stroll  STR,Aston Martin Mercedes,57,+81.274s,8,1105,2021-11-21
+7,55,Carlos  Sainz  SAI,Ferrari,57,+81.911s,6,1105,2021-11-21
+8,16,Charles  Leclerc  LEC,Ferrari,57,+83.126s,4,1105,2021-11-21
+9,4,Lando  Norris  NOR,McLaren Mercedes,56,+1 lap,2,1105,2021-11-21
+10,5,Sebastian  Vettel  VET,Aston Martin Mercedes,56,+1 lap,1,1105,2021-11-21
+11,10,Pierre  Gasly  GAS,AlphaTauri Honda,56,+1 lap,0,1105,2021-11-21
+12,3,Daniel  Ricciardo  RIC,McLaren Mercedes,56,+1 lap,0,1105,2021-11-21
+13,22,Yuki  Tsunoda  TSU,AlphaTauri Honda,56,+1 lap,0,1105,2021-11-21
+14,7,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,56,+1 lap,0,1105,2021-11-21
+15,99,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,56,+1 lap,0,1105,2021-11-21
+16,47,Mick  Schumacher  MSC,Haas Ferrari,56,+1 lap,0,1105,2021-11-21
+17,63,George  Russell  RUS,Williams Mercedes,55,+2 laps,0,1105,2021-11-21
+18,9,Nikita  Mazepin  MAZ,Haas Ferrari,55,+2 laps,0,1105,2021-11-21
+,6,Nicholas  Latifi  LAT,Williams Mercedes,50,DNF,0,1105,2021-11-21
+,77,Valtteri  Bottas  BOT,Mercedes,48,DNF,0,1105,2021-11-21
+1,33,Max  Verstappen  VER,Red Bull Racing Honda,71,1:22:18.925,25,1092,2021-06-27
+2,44,Lewis  Hamilton  HAM,Mercedes,71,+35.743s,19,1092,2021-06-27
+3,77,Valtteri  Bottas  BOT,Mercedes,71,+46.907s,15,1092,2021-06-27
+4,11,Sergio  Perez  PER,Red Bull Racing Honda,71,+47.434s,12,1092,2021-06-27
+5,4,Lando  Norris  NOR,McLaren Mercedes,70,+1 lap,10,1092,2021-06-27
+6,55,Carlos  Sainz  SAI,Ferrari,70,+1 lap,8,1092,2021-06-27
+7,16,Charles  Leclerc  LEC,Ferrari,70,+1 lap,6,1092,2021-06-27
+8,18,Lance  Stroll  STR,Aston Martin Mercedes,70,+1 lap,4,1092,2021-06-27
+9,14,Fernando  Alonso  ALO,Alpine Renault,70,+1 lap,2,1092,2021-06-27
+10,22,Yuki  Tsunoda  TSU,AlphaTauri Honda,70,+1 lap,1,1092,2021-06-27
+11,7,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,70,+1 lap,0,1092,2021-06-27
+12,5,Sebastian  Vettel  VET,Aston Martin Mercedes,70,+1 lap,0,1092,2021-06-27
+13,3,Daniel  Ricciardo  RIC,McLaren Mercedes,70,+1 lap,0,1092,2021-06-27
+14,31,Esteban  Ocon  OCO,Alpine Renault,70,+1 lap,0,1092,2021-06-27
+15,99,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,70,+1 lap,0,1092,2021-06-27
+16,47,Mick  Schumacher  MSC,Haas Ferrari,69,+2 laps,0,1092,2021-06-27
+17,6,Nicholas  Latifi  LAT,Williams Mercedes,68,+3 laps,0,1092,2021-06-27
+18,9,Nikita  Mazepin  MAZ,Haas Ferrari,68,+3 laps,0,1092,2021-06-27
+,63,George  Russell  RUS,Williams Mercedes,36,DNF,0,1092,2021-06-27
+,10,Pierre  Gasly  GAS,AlphaTauri Honda,1,DNF,0,1092,2021-06-27
+1,3,Daniel  Ricciardo  RIC,McLaren Mercedes,53,1:21:54.365,26,1076,2021-09-12
+2,4,Lando  Norris  NOR,McLaren Mercedes,53,+1.747s,18,1076,2021-09-12
+3,77,Valtteri  Bottas  BOT,Mercedes,53,+4.921s,15,1076,2021-09-12
+4,16,Charles  Leclerc  LEC,Ferrari,53,+7.309s,12,1076,2021-09-12
+5,11,Sergio  Perez  PER,Red Bull Racing Honda,53,+8.723s,10,1076,2021-09-12
+6,55,Carlos  Sainz  SAI,Ferrari,53,+10.535s,8,1076,2021-09-12
+7,18,Lance  Stroll  STR,Aston Martin Mercedes,53,+15.804s,6,1076,2021-09-12
+8,14,Fernando  Alonso  ALO,Alpine Renault,53,+17.201s,4,1076,2021-09-12
+9,63,George  Russell  RUS,Williams Mercedes,53,+19.742s,2,1076,2021-09-12
+10,31,Esteban  Ocon  OCO,Alpine Renault,53,+20.868s,1,1076,2021-09-12
+11,6,Nicholas  Latifi  LAT,Williams Mercedes,53,+23.743s,0,1076,2021-09-12
+12,5,Sebastian  Vettel  VET,Aston Martin Mercedes,53,+24.621s,0,1076,2021-09-12
+13,99,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,53,+27.216s,0,1076,2021-09-12
+14,88,Robert  Kubica  KUB,Alfa Romeo Racing Ferrari,53,+29.769s,0,1076,2021-09-12
+15,47,Mick  Schumacher  MSC,Haas Ferrari,53,+51.088s,0,1076,2021-09-12
+,9,Nikita  Mazepin  MAZ,Haas Ferrari,41,DNF,0,1076,2021-09-12
+,44,Lewis  Hamilton  HAM,Mercedes,25,DNF,0,1076,2021-09-12
+,33,Max  Verstappen  VER,Red Bull Racing Honda,25,DNF,0,1076,2021-09-12
+,10,Pierre  Gasly  GAS,AlphaTauri Honda,3,DNF,0,1076,2021-09-12
+,22,Yuki  Tsunoda  TSU,AlphaTauri Honda,0,DNS,0,1076,2021-09-12
+1,33,Max  Verstappen  VER,Red Bull Racing Honda,56,1:34:36.552,25,1102,2021-10-24
+2,44,Lewis  Hamilton  HAM,Mercedes,56,+1.333s,19,1102,2021-10-24
+3,11,Sergio  Perez  PER,Red Bull Racing Honda,56,+42.223s,15,1102,2021-10-24
+4,16,Charles  Leclerc  LEC,Ferrari,56,+52.246s,12,1102,2021-10-24
+5,3,Daniel  Ricciardo  RIC,McLaren Mercedes,56,+76.854s,10,1102,2021-10-24
+6,77,Valtteri  Bottas  BOT,Mercedes,56,+80.128s,8,1102,2021-10-24
+7,55,Carlos  Sainz  SAI,Ferrari,56,+83.545s,6,1102,2021-10-24
+8,4,Lando  Norris  NOR,McLaren Mercedes,56,+84.395s,4,1102,2021-10-24
+9,22,Yuki  Tsunoda  TSU,AlphaTauri Honda,55,+1 lap,2,1102,2021-10-24
+10,5,Sebastian  Vettel  VET,Aston Martin Mercedes,55,+1 lap,1,1102,2021-10-24
+11,99,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,55,+1 lap,0,1102,2021-10-24
+12,18,Lance  Stroll  STR,Aston Martin Mercedes,55,+1 lap,0,1102,2021-10-24
+13,7,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,55,+1 lap,0,1102,2021-10-24
+14,63,George  Russell  RUS,Williams Mercedes,55,+1 lap,0,1102,2021-10-24
+15,6,Nicholas  Latifi  LAT,Williams Mercedes,55,+1 lap,0,1102,2021-10-24
+16,47,Mick  Schumacher  MSC,Haas Ferrari,54,+2 laps,0,1102,2021-10-24
+17,9,Nikita  Mazepin  MAZ,Haas Ferrari,54,+2 laps,0,1102,2021-10-24
+,14,Fernando  Alonso  ALO,Alpine Renault,49,DNF,0,1102,2021-10-24
+,31,Esteban  Ocon  OCO,Alpine Renault,40,DNF,0,1102,2021-10-24
+,10,Pierre  Gasly  GAS,AlphaTauri Honda,14,DNF,0,1102,2021-10-24
+1,44,Lewis  Hamilton  HAM,Mercedes,71,1:32:22.851,25,1104,2021-11-14
+2,33,Max  Verstappen  VER,Red Bull Racing Honda,71,+10.496s,18,1104,2021-11-14
+3,77,Valtteri  Bottas  BOT,Mercedes,71,+13.576s,15,1104,2021-11-14
+4,11,Sergio  Perez  PER,Red Bull Racing Honda,71,+39.940s,13,1104,2021-11-14
+5,16,Charles  Leclerc  LEC,Ferrari,71,+49.517s,10,1104,2021-11-14
+6,55,Carlos  Sainz  SAI,Ferrari,71,+51.820s,8,1104,2021-11-14
+7,10,Pierre  Gasly  GAS,AlphaTauri Honda,70,+1 lap,6,1104,2021-11-14
+8,31,Esteban  Ocon  OCO,Alpine Renault,70,+1 lap,4,1104,2021-11-14
+9,14,Fernando  Alonso  ALO,Alpine Renault,70,+1 lap,2,1104,2021-11-14
+10,4,Lando  Norris  NOR,McLaren Mercedes,70,+1 lap,1,1104,2021-11-14
+11,5,Sebastian  Vettel  VET,Aston Martin Mercedes,70,+1 lap,0,1104,2021-11-14
+12,7,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,70,+1 lap,0,1104,2021-11-14
+13,63,George  Russell  RUS,Williams Mercedes,70,+1 lap,0,1104,2021-11-14
+14,99,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,70,+1 lap,0,1104,2021-11-14
+15,22,Yuki  Tsunoda  TSU,AlphaTauri Honda,70,+1 lap,0,1104,2021-11-14
+16,6,Nicholas  Latifi  LAT,Williams Mercedes,70,+1 lap,0,1104,2021-11-14
+17,9,Nikita  Mazepin  MAZ,Haas Ferrari,69,+2 laps,0,1104,2021-11-14
+18,47,Mick  Schumacher  MSC,Haas Ferrari,69,+2 laps,0,1104,2021-11-14
+,3,Daniel  Ricciardo  RIC,McLaren Mercedes,49,DNF,0,1104,2021-11-14
+,18,Lance  Stroll  STR,Aston Martin Mercedes,47,DNF,0,1104,2021-11-14
+1,31,Esteban  Ocon  OCO,Alpine Renault,70,2:04:43.199,25,1073,2021-08-01
+DQ,5,Sebastian  Vettel  VET,Aston Martin Mercedes,70,+1.859s,0,1073,2021-08-01
+2,44,Lewis  Hamilton  HAM,Mercedes,70,+2.736s,18,1073,2021-08-01
+3,55,Carlos  Sainz  SAI,Ferrari,70,+15.018s,15,1073,2021-08-01
+4,14,Fernando  Alonso  ALO,Alpine Renault,70,+15.651s,12,1073,2021-08-01
+5,10,Pierre  Gasly  GAS,AlphaTauri Honda,70,+63.614s,11,1073,2021-08-01
+6,22,Yuki  Tsunoda  TSU,AlphaTauri Honda,70,+75.803s,8,1073,2021-08-01
+7,6,Nicholas  Latifi  LAT,Williams Mercedes,70,+77.910s,6,1073,2021-08-01
+8,63,George  Russell  RUS,Williams Mercedes,70,+79.094s,4,1073,2021-08-01
+9,33,Max  Verstappen  VER,Red Bull Racing Honda,70,+80.244s,2,1073,2021-08-01
+10,7,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,69,+1 lap,1,1073,2021-08-01
+11,3,Daniel  Ricciardo  RIC,McLaren Mercedes,69,+1 lap,0,1073,2021-08-01
+12,47,Mick  Schumacher  MSC,Haas Ferrari,69,+1 lap,0,1073,2021-08-01
+13,99,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,69,+1 lap,0,1073,2021-08-01
+,9,Nikita  Mazepin  MAZ,Haas Ferrari,3,DNF,0,1073,2021-08-01
+,4,Lando  Norris  NOR,McLaren Mercedes,2,DNF,0,1073,2021-08-01
+,77,Valtteri  Bottas  BOT,Mercedes,0,DNF,0,1073,2021-08-01
+,11,Sergio  Perez  PER,Red Bull Racing Honda,0,DNF,0,1073,2021-08-01
+,16,Charles  Leclerc  LEC,Ferrari,0,DNF,0,1073,2021-08-01
+,18,Lance  Stroll  STR,Aston Martin Mercedes,0,DNF,0,1073,2021-08-01
+1,33,Max  Verstappen  VER,Red Bull Racing Honda,72,1:30:05.395,25,1075,2021-09-05
+2,44,Lewis  Hamilton  HAM,Mercedes,72,+20.932s,19,1075,2021-09-05
+3,77,Valtteri  Bottas  BOT,Mercedes,72,+56.460s,15,1075,2021-09-05
+4,10,Pierre  Gasly  GAS,AlphaTauri Honda,71,+1 lap,12,1075,2021-09-05
+5,16,Charles  Leclerc  LEC,Ferrari,71,+1 lap,10,1075,2021-09-05
+6,14,Fernando  Alonso  ALO,Alpine Renault,71,+1 lap,8,1075,2021-09-05
+7,55,Carlos  Sainz  SAI,Ferrari,71,+1 lap,6,1075,2021-09-05
+8,11,Sergio  Perez  PER,Red Bull Racing Honda,71,+1 lap,4,1075,2021-09-05
+9,31,Esteban  Ocon  OCO,Alpine Renault,71,+1 lap,2,1075,2021-09-05
+10,4,Lando  Norris  NOR,McLaren Mercedes,71,+1 lap,1,1075,2021-09-05
+11,3,Daniel  Ricciardo  RIC,McLaren Mercedes,71,+1 lap,0,1075,2021-09-05
+12,18,Lance  Stroll  STR,Aston Martin Mercedes,70,+2 laps,0,1075,2021-09-05
+13,5,Sebastian  Vettel  VET,Aston Martin Mercedes,70,+2 laps,0,1075,2021-09-05
+14,99,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,70,+2 laps,0,1075,2021-09-05
+15,88,Robert  Kubica  KUB,Alfa Romeo Racing Ferrari,70,+2 laps,0,1075,2021-09-05
+16,6,Nicholas  Latifi  LAT,Williams Mercedes,70,+2 laps,0,1075,2021-09-05
+17,63,George  Russell  RUS,Williams Mercedes,69,DNF,0,1075,2021-09-05
+18,47,Mick  Schumacher  MSC,Haas Ferrari,69,+3 laps,0,1075,2021-09-05
+,22,Yuki  Tsunoda  TSU,AlphaTauri Honda,48,DNF,0,1075,2021-09-05
+,9,Nikita  Mazepin  MAZ,Haas Ferrari,41,DNF,0,1075,2021-09-05
+1,44,Lewis  Hamilton  HAM,Mercedes,50,2:06:15.118,26,1106,2021-12-05
+2,33,Max  Verstappen  VER,Red Bull Racing Honda,50,+21.825s,18,1106,2021-12-05
+3,77,Valtteri  Bottas  BOT,Mercedes,50,+27.531s,15,1106,2021-12-05
+4,31,Esteban  Ocon  OCO,Alpine Renault,50,+27.633s,12,1106,2021-12-05
+5,3,Daniel  Ricciardo  RIC,McLaren Mercedes,50,+40.121s,10,1106,2021-12-05
+6,10,Pierre  Gasly  GAS,AlphaTauri Honda,50,+41.613s,8,1106,2021-12-05
+7,16,Charles  Leclerc  LEC,Ferrari,50,+44.475s,6,1106,2021-12-05
+8,55,Carlos  Sainz  SAI,Ferrari,50,+46.606s,4,1106,2021-12-05
+9,99,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,50,+58.505s,2,1106,2021-12-05
+10,4,Lando  Norris  NOR,McLaren Mercedes,50,+61.358s,1,1106,2021-12-05
+11,18,Lance  Stroll  STR,Aston Martin Mercedes,50,+77.212s,0,1106,2021-12-05
+12,6,Nicholas  Latifi  LAT,Williams Mercedes,50,+83.249s,0,1106,2021-12-05
+13,14,Fernando  Alonso  ALO,Alpine Renault,49,+1 lap,0,1106,2021-12-05
+14,22,Yuki  Tsunoda  TSU,AlphaTauri Honda,49,+1 lap,0,1106,2021-12-05
+15,7,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,49,+1 lap,0,1106,2021-12-05
+,5,Sebastian  Vettel  VET,Aston Martin Mercedes,44,DNF,0,1106,2021-12-05
+,11,Sergio  Perez  PER,Red Bull Racing Honda,14,DNF,0,1106,2021-12-05
+,9,Nikita  Mazepin  MAZ,Haas Ferrari,14,DNF,0,1106,2021-12-05
+,63,George  Russell  RUS,Williams Mercedes,14,DNF,0,1106,2021-12-05
+,47,Mick  Schumacher  MSC,Haas Ferrari,8,DNF,0,1106,2021-12-05
+1,11,Sergio  Perez  PER,Red Bull Racing Honda,51,2:13:36.410,25,1068,2021-06-06
+2,5,Sebastian  Vettel  VET,Aston Martin Mercedes,51,+1.385s,18,1068,2021-06-06
+3,10,Pierre  Gasly  GAS,AlphaTauri Honda,51,+2.762s,15,1068,2021-06-06
+4,16,Charles  Leclerc  LEC,Ferrari,51,+3.828s,12,1068,2021-06-06
+5,4,Lando  Norris  NOR,McLaren Mercedes,51,+4.754s,10,1068,2021-06-06
+6,14,Fernando  Alonso  ALO,Alpine Renault,51,+6.382s,8,1068,2021-06-06
+7,22,Yuki  Tsunoda  TSU,AlphaTauri Honda,51,+6.624s,6,1068,2021-06-06
+8,55,Carlos  Sainz  SAI,Ferrari,51,+7.709s,4,1068,2021-06-06
+9,3,Daniel  Ricciardo  RIC,McLaren Mercedes,51,+8.874s,2,1068,2021-06-06
+10,7,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,51,+9.576s,1,1068,2021-06-06
+11,99,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,51,+10.254s,0,1068,2021-06-06
+12,77,Valtteri  Bottas  BOT,Mercedes,51,+11.264s,0,1068,2021-06-06
+13,47,Mick  Schumacher  MSC,Haas Ferrari,51,+14.241s,0,1068,2021-06-06
+14,9,Nikita  Mazepin  MAZ,Haas Ferrari,51,+14.315s,0,1068,2021-06-06
+15,44,Lewis  Hamilton  HAM,Mercedes,51,+17.668s,0,1068,2021-06-06
+16,6,Nicholas  Latifi  LAT,Williams Mercedes,51,+42.379s,0,1068,2021-06-06
+17,63,George  Russell  RUS,Williams Mercedes,48,DNF,0,1068,2021-06-06
+18,33,Max  Verstappen  VER,Red Bull Racing Honda,45,DNF,0,1068,2021-06-06
+,18,Lance  Stroll  STR,Aston Martin Mercedes,29,DNF,0,1068,2021-06-06
+,31,Esteban  Ocon  OCO,Alpine Renault,3,DNF,0,1068,2021-06-06
+1,33,Max  Verstappen  VER,Red Bull Racing Honda,58,1:30:17.345,26,1107,2021-12-12
+2,44,Lewis  Hamilton  HAM,Mercedes,58,+2.256s,18,1107,2021-12-12
+3,55,Carlos  Sainz  SAI,Ferrari,58,+5.173s,15,1107,2021-12-12
+4,22,Yuki  Tsunoda  TSU,AlphaTauri Honda,58,+5.692s,12,1107,2021-12-12
+5,10,Pierre  Gasly  GAS,AlphaTauri Honda,58,+6.531s,10,1107,2021-12-12
+6,77,Valtteri  Bottas  BOT,Mercedes,58,+7.463s,8,1107,2021-12-12
+7,4,Lando  Norris  NOR,McLaren Mercedes,58,+59.200s,6,1107,2021-12-12
+8,14,Fernando  Alonso  ALO,Alpine Renault,58,+61.708s,4,1107,2021-12-12
+9,31,Esteban  Ocon  OCO,Alpine Renault,58,+64.026s,2,1107,2021-12-12
+10,16,Charles  Leclerc  LEC,Ferrari,58,+66.057s,1,1107,2021-12-12
+11,5,Sebastian  Vettel  VET,Aston Martin Mercedes,58,+67.527s,0,1107,2021-12-12
+12,3,Daniel  Ricciardo  RIC,McLaren Mercedes,57,+1 lap,0,1107,2021-12-12
+13,18,Lance  Stroll  STR,Aston Martin Mercedes,57,+1 lap,0,1107,2021-12-12
+14,47,Mick  Schumacher  MSC,Haas Ferrari,57,+1 lap,0,1107,2021-12-12
+15,11,Sergio  Perez  PER,Red Bull Racing Honda,55,DNF,0,1107,2021-12-12
+,6,Nicholas  Latifi  LAT,Williams Mercedes,50,DNF,0,1107,2021-12-12
+,99,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,33,DNF,0,1107,2021-12-12
+,63,George  Russell  RUS,Williams Mercedes,26,DNF,0,1107,2021-12-12
+,7,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,25,DNF,0,1107,2021-12-12
+,9,Nikita  Mazepin  MAZ,Haas Ferrari,0,DNS,0,1107,2021-12-12
+1,33,Max  Verstappen  VER,Red Bull Racing Honda,53,1:27:25.770,26,1070,2021-06-20
+2,44,Lewis  Hamilton  HAM,Mercedes,53,+2.904s,18,1070,2021-06-20
+3,11,Sergio  Perez  PER,Red Bull Racing Honda,53,+8.811s,15,1070,2021-06-20
+4,77,Valtteri  Bottas  BOT,Mercedes,53,+14.618s,12,1070,2021-06-20
+5,4,Lando  Norris  NOR,McLaren Mercedes,53,+64.032s,10,1070,2021-06-20
+6,3,Daniel  Ricciardo  RIC,McLaren Mercedes,53,+75.857s,8,1070,2021-06-20
+7,10,Pierre  Gasly  GAS,AlphaTauri Honda,53,+76.596s,6,1070,2021-06-20
+8,14,Fernando  Alonso  ALO,Alpine Renault,53,+77.695s,4,1070,2021-06-20
+9,5,Sebastian  Vettel  VET,Aston Martin Mercedes,53,+79.666s,2,1070,2021-06-20
+10,18,Lance  Stroll  STR,Aston Martin Mercedes,53,+91.946s,1,1070,2021-06-20
+11,55,Carlos  Sainz  SAI,Ferrari,53,+99.337s,0,1070,2021-06-20
+12,63,George  Russell  RUS,Williams Mercedes,52,+1 lap,0,1070,2021-06-20
+13,22,Yuki  Tsunoda  TSU,AlphaTauri Honda,52,+1 lap,0,1070,2021-06-20
+14,31,Esteban  Ocon  OCO,Alpine Renault,52,+1 lap,0,1070,2021-06-20
+15,99,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,52,+1 lap,0,1070,2021-06-20
+16,16,Charles  Leclerc  LEC,Ferrari,52,+1 lap,0,1070,2021-06-20
+17,7,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,52,+1 lap,0,1070,2021-06-20
+18,6,Nicholas  Latifi  LAT,Williams Mercedes,52,+1 lap,0,1070,2021-06-20
+19,47,Mick  Schumacher  MSC,Haas Ferrari,52,+1 lap,0,1070,2021-06-20
+20,9,Nikita  Mazepin  MAZ,Haas Ferrari,52,+1 lap,0,1070,2021-06-20
+1,33,Max  Verstappen  VER,Red Bull Racing Honda,71,1:38:39.086,25,1103,2021-11-07
+2,44,Lewis  Hamilton  HAM,Mercedes,71,+16.555s,18,1103,2021-11-07
+3,11,Sergio  Perez  PER,Red Bull Racing Honda,71,+17.752s,15,1103,2021-11-07
+4,10,Pierre  Gasly  GAS,AlphaTauri Honda,71,+63.845s,12,1103,2021-11-07
+5,16,Charles  Leclerc  LEC,Ferrari,71,+81.037s,10,1103,2021-11-07
+6,55,Carlos  Sainz  SAI,Ferrari,70,+1 lap,8,1103,2021-11-07
+7,5,Sebastian  Vettel  VET,Aston Martin Mercedes,70,+1 lap,6,1103,2021-11-07
+8,7,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,70,+1 lap,4,1103,2021-11-07
+9,14,Fernando  Alonso  ALO,Alpine Renault,70,+1 lap,2,1103,2021-11-07
+10,4,Lando  Norris  NOR,McLaren Mercedes,70,+1 lap,1,1103,2021-11-07
+11,99,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,70,+1 lap,0,1103,2021-11-07
+12,3,Daniel  Ricciardo  RIC,McLaren Mercedes,70,+1 lap,0,1103,2021-11-07
+13,31,Esteban  Ocon  OCO,Alpine Renault,70,+1 lap,0,1103,2021-11-07
+14,18,Lance  Stroll  STR,Aston Martin Mercedes,69,+2 laps,0,1103,2021-11-07
+15,77,Valtteri  Bottas  BOT,Mercedes,69,+2 laps,0,1103,2021-11-07
+16,63,George  Russell  RUS,Williams Mercedes,69,+2 laps,0,1103,2021-11-07
+17,6,Nicholas  Latifi  LAT,Williams Mercedes,69,+2 laps,0,1103,2021-11-07
+18,9,Nikita  Mazepin  MAZ,Haas Ferrari,68,+3 laps,0,1103,2021-11-07
+,47,Mick  Schumacher  MSC,Haas Ferrari,0,DNF,0,1103,2021-11-07
+,22,Yuki  Tsunoda  TSU,AlphaTauri Honda,0,DNF,0,1103,2021-11-07
+1,33,Max  Verstappen  VER,Red Bull Racing Honda,1,0:03:27.071,12.5,1074,2021-08-29
+2,63,George  Russell  RUS,Williams Mercedes,1,+1.995s,9.0,1074,2021-08-29
+3,44,Lewis  Hamilton  HAM,Mercedes,1,+2.601s,7.5,1074,2021-08-29
+4,3,Daniel  Ricciardo  RIC,McLaren Mercedes,1,+4.496s,6.0,1074,2021-08-29
+5,5,Sebastian  Vettel  VET,Aston Martin Mercedes,1,+7.479s,5.0,1074,2021-08-29
+6,10,Pierre  Gasly  GAS,AlphaTauri Honda,1,+10.177s,4.0,1074,2021-08-29
+7,31,Esteban  Ocon  OCO,Alpine Renault,1,+11.579s,3.0,1074,2021-08-29
+8,16,Charles  Leclerc  LEC,Ferrari,1,+12.608s,2.0,1074,2021-08-29
+9,6,Nicholas  Latifi  LAT,Williams Mercedes,1,+15.484s,1.0,1074,2021-08-29
+10,55,Carlos  Sainz  SAI,Ferrari,1,+16.166s,0.5,1074,2021-08-29
+11,14,Fernando  Alonso  ALO,Alpine Renault,1,+20.590s,0.0,1074,2021-08-29
+12,77,Valtteri  Bottas  BOT,Mercedes,1,+22.414s,0.0,1074,2021-08-29
+13,99,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,1,+24.163s,0.0,1074,2021-08-29
+14,4,Lando  Norris  NOR,McLaren Mercedes,1,+27.109s,0.0,1074,2021-08-29
+15,22,Yuki  Tsunoda  TSU,AlphaTauri Honda,1,+28.329s,0.0,1074,2021-08-29
+16,47,Mick  Schumacher  MSC,Haas Ferrari,1,+29.507s,0.0,1074,2021-08-29
+17,9,Nikita  Mazepin  MAZ,Haas Ferrari,1,+31.993s,0.0,1074,2021-08-29
+18,7,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,1,+36.054s,0.0,1074,2021-08-29
+19,11,Sergio  Perez  PER,Red Bull Racing Honda,1,+38.205s,0.0,1074,2021-08-29
+20,18,Lance  Stroll  STR,Aston Martin Mercedes,1,+44.108s,0.0,1074,2021-08-29
+1,44,Lewis  Hamilton  HAM,Mercedes,66,1:33:07.680,25,1086,2021-05-09
+2,33,Max  Verstappen  VER,Red Bull Racing Honda,66,+15.841s,19,1086,2021-05-09
+3,77,Valtteri  Bottas  BOT,Mercedes,66,+26.610s,15,1086,2021-05-09
+4,16,Charles  Leclerc  LEC,Ferrari,66,+54.616s,12,1086,2021-05-09
+5,11,Sergio  Perez  PER,Red Bull Racing Honda,66,+63.671s,10,1086,2021-05-09
+6,3,Daniel  Ricciardo  RIC,McLaren Mercedes,66,+73.768s,8,1086,2021-05-09
+7,55,Carlos  Sainz  SAI,Ferrari,66,+74.670s,6,1086,2021-05-09
+8,4,Lando  Norris  NOR,McLaren Mercedes,65,+1 lap,4,1086,2021-05-09
+9,31,Esteban  Ocon  OCO,Alpine Renault,65,+1 lap,2,1086,2021-05-09
+10,10,Pierre  Gasly  GAS,AlphaTauri Honda,65,+1 lap,1,1086,2021-05-09
+11,18,Lance  Stroll  STR,Aston Martin Mercedes,65,+1 lap,0,1086,2021-05-09
+12,7,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,65,+1 lap,0,1086,2021-05-09
+13,5,Sebastian  Vettel  VET,Aston Martin Mercedes,65,+1 lap,0,1086,2021-05-09
+14,63,George  Russell  RUS,Williams Mercedes,65,+1 lap,0,1086,2021-05-09
+15,99,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,65,+1 lap,0,1086,2021-05-09
+16,6,Nicholas  Latifi  LAT,Williams Mercedes,65,+1 lap,0,1086,2021-05-09
+17,14,Fernando  Alonso  ALO,Alpine Renault,65,+1 lap,0,1086,2021-05-09
+18,47,Mick  Schumacher  MSC,Haas Ferrari,64,+2 laps,0,1086,2021-05-09
+19,9,Nikita  Mazepin  MAZ,Haas Ferrari,64,+2 laps,0,1086,2021-05-09
+,22,Yuki  Tsunoda  TSU,AlphaTauri Honda,6,DNF,0,1086,2021-05-09
+1,33,Max  Verstappen  VER,Red Bull Racing Honda,78,1:38:56.820,25,1067,2021-05-23
+2,55,Carlos  Sainz  SAI,Ferrari,78,+8.968s,18,1067,2021-05-23
+3,4,Lando  Norris  NOR,McLaren Mercedes,78,+19.427s,15,1067,2021-05-23
+4,11,Sergio  Perez  PER,Red Bull Racing Honda,78,+20.490s,12,1067,2021-05-23
+5,5,Sebastian  Vettel  VET,Aston Martin Mercedes,78,+52.591s,10,1067,2021-05-23
+6,10,Pierre  Gasly  GAS,AlphaTauri Honda,78,+53.896s,8,1067,2021-05-23
+7,44,Lewis  Hamilton  HAM,Mercedes,78,+68.231s,7,1067,2021-05-23
+8,18,Lance  Stroll  STR,Aston Martin Mercedes,77,+1 lap,4,1067,2021-05-23
+9,31,Esteban  Ocon  OCO,Alpine Renault,77,+1 lap,2,1067,2021-05-23
+10,99,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,77,+1 lap,1,1067,2021-05-23
+11,7,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,77,+1 lap,0,1067,2021-05-23
+12,3,Daniel  Ricciardo  RIC,McLaren Mercedes,77,+1 lap,0,1067,2021-05-23
+13,14,Fernando  Alonso  ALO,Alpine Renault,77,+1 lap,0,1067,2021-05-23
+14,63,George  Russell  RUS,Williams Mercedes,77,+1 lap,0,1067,2021-05-23
+15,6,Nicholas  Latifi  LAT,Williams Mercedes,77,+1 lap,0,1067,2021-05-23
+16,22,Yuki  Tsunoda  TSU,AlphaTauri Honda,77,+1 lap,0,1067,2021-05-23
+17,9,Nikita  Mazepin  MAZ,Haas Ferrari,75,+3 laps,0,1067,2021-05-23
+18,47,Mick  Schumacher  MSC,Haas Ferrari,75,+3 laps,0,1067,2021-05-23
+,77,Valtteri  Bottas  BOT,Mercedes,29,DNF,0,1067,2021-05-23
+,16,Charles  Leclerc  LEC,Ferrari,0,DNS,0,1067,2021-05-23
+1,44,Lewis  Hamilton  HAM,Mercedes,52,1:58:23.284,25,1072,2021-07-18
+2,16,Charles  Leclerc  LEC,Ferrari,52,+3.871s,18,1072,2021-07-18
+3,77,Valtteri  Bottas  BOT,Mercedes,52,+11.125s,15,1072,2021-07-18
+4,4,Lando  Norris  NOR,McLaren Mercedes,52,+28.573s,12,1072,2021-07-18
+5,3,Daniel  Ricciardo  RIC,McLaren Mercedes,52,+42.624s,10,1072,2021-07-18
+6,55,Carlos  Sainz  SAI,Ferrari,52,+43.454s,8,1072,2021-07-18
+7,14,Fernando  Alonso  ALO,Alpine Renault,52,+72.093s,6,1072,2021-07-18
+8,18,Lance  Stroll  STR,Aston Martin Mercedes,52,+74.289s,4,1072,2021-07-18
+9,31,Esteban  Ocon  OCO,Alpine Renault,52,+76.162s,2,1072,2021-07-18
+10,22,Yuki  Tsunoda  TSU,AlphaTauri Honda,52,+82.065s,1,1072,2021-07-18
+11,10,Pierre  Gasly  GAS,AlphaTauri Honda,52,+85.327s,0,1072,2021-07-18
+12,63,George  Russell  RUS,Williams Mercedes,51,+1 lap,0,1072,2021-07-18
+13,99,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,51,+1 lap,0,1072,2021-07-18
+14,6,Nicholas  Latifi  LAT,Williams Mercedes,51,+1 lap,0,1072,2021-07-18
+15,7,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,51,+1 lap,0,1072,2021-07-18
+16,11,Sergio  Perez  PER,Red Bull Racing Honda,51,+1 lap,0,1072,2021-07-18
+17,9,Nikita  Mazepin  MAZ,Haas Ferrari,51,+1 lap,0,1072,2021-07-18
+18,47,Mick  Schumacher  MSC,Haas Ferrari,51,+1 lap,0,1072,2021-07-18
+,5,Sebastian  Vettel  VET,Aston Martin Mercedes,40,DNF,0,1072,2021-07-18
+,33,Max  Verstappen  VER,Red Bull Racing Honda,0,DNF,0,1072,2021-07-18
+1,33,Max  Verstappen  VER,Red Bull Racing Honda,63,2:02:34.598,25,1065,2021-04-18
+2,44,Lewis  Hamilton  HAM,Mercedes,63,+22.000s,19,1065,2021-04-18
+3,4,Lando  Norris  NOR,McLaren Mercedes,63,+23.702s,15,1065,2021-04-18
+4,16,Charles  Leclerc  LEC,Ferrari,63,+25.579s,12,1065,2021-04-18
+5,55,Carlos  Sainz  SAI,Ferrari,63,+27.036s,10,1065,2021-04-18
+6,3,Daniel  Ricciardo  RIC,McLaren Mercedes,63,+51.220s,8,1065,2021-04-18
+7,10,Pierre  Gasly  GAS,AlphaTauri Honda,63,+52.818s,6,1065,2021-04-18
+8,18,Lance  Stroll  STR,Aston Martin Mercedes,63,+56.909s,4,1065,2021-04-18
+9,31,Esteban  Ocon  OCO,Alpine Renault,63,+65.704s,2,1065,2021-04-18
+10,14,Fernando  Alonso  ALO,Alpine Renault,63,+66.561s,1,1065,2021-04-18
+11,11,Sergio  Perez  PER,Red Bull Racing Honda,63,+67.151s,0,1065,2021-04-18
+12,22,Yuki  Tsunoda  TSU,AlphaTauri Honda,63,+73.184s,0,1065,2021-04-18
+13,7,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,63,+94.773s,0,1065,2021-04-18
+14,99,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,62,+1 lap,0,1065,2021-04-18
+15,5,Sebastian  Vettel  VET,Aston Martin Mercedes,61,DNF,0,1065,2021-04-18
+16,47,Mick  Schumacher  MSC,Haas Ferrari,61,+2 laps,0,1065,2021-04-18
+17,9,Nikita  Mazepin  MAZ,Haas Ferrari,61,+2 laps,0,1065,2021-04-18
+,77,Valtteri  Bottas  BOT,Mercedes,30,DNF,0,1065,2021-04-18
+,63,George  Russell  RUS,Williams Mercedes,30,DNF,0,1065,2021-04-18
+,6,Nicholas  Latifi  LAT,Williams Mercedes,0,DNF,0,1065,2021-04-18
+1,44,Lewis  Hamilton  HAM,Mercedes,53,1:30:41.001,25,1077,2021-09-26
+2,33,Max  Verstappen  VER,Red Bull Racing Honda,53,+53.271s,18,1077,2021-09-26
+3,55,Carlos  Sainz  SAI,Ferrari,53,+62.475s,15,1077,2021-09-26
+4,3,Daniel  Ricciardo  RIC,McLaren Mercedes,53,+65.607s,12,1077,2021-09-26
+5,77,Valtteri  Bottas  BOT,Mercedes,53,+67.533s,10,1077,2021-09-26
+6,14,Fernando  Alonso  ALO,Alpine Renault,53,+81.321s,8,1077,2021-09-26
+7,4,Lando  Norris  NOR,McLaren Mercedes,53,+87.224s,7,1077,2021-09-26
+8,7,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,53,+88.955s,4,1077,2021-09-26
+9,11,Sergio  Perez  PER,Red Bull Racing Honda,53,+90.076s,2,1077,2021-09-26
+10,63,George  Russell  RUS,Williams Mercedes,53,+100.551s,1,1077,2021-09-26
+11,18,Lance  Stroll  STR,Aston Martin Mercedes,53,+116.198s,0,1077,2021-09-26
+12,5,Sebastian  Vettel  VET,Aston Martin Mercedes,52,+1 lap,0,1077,2021-09-26
+13,10,Pierre  Gasly  GAS,AlphaTauri Honda,52,+1 lap,0,1077,2021-09-26
+14,31,Esteban  Ocon  OCO,Alpine Renault,52,+1 lap,0,1077,2021-09-26
+15,16,Charles  Leclerc  LEC,Ferrari,52,+1 lap,0,1077,2021-09-26
+16,99,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,52,+1 lap,0,1077,2021-09-26
+17,22,Yuki  Tsunoda  TSU,AlphaTauri Honda,52,+1 lap,0,1077,2021-09-26
+18,9,Nikita  Mazepin  MAZ,Haas Ferrari,51,+2 laps,0,1077,2021-09-26
+19,6,Nicholas  Latifi  LAT,Williams Mercedes,47,DNF,0,1077,2021-09-26
+,47,Mick  Schumacher  MSC,Haas Ferrari,32,DNF,0,1077,2021-09-26
+1,44,Lewis  Hamilton  HAM,Mercedes,56,1:32:03.897,25,1064,2021-03-28
+2,33,Max  Verstappen  VER,Red Bull Racing Honda,56,+0.745s,18,1064,2021-03-28
+3,77,Valtteri  Bottas  BOT,Mercedes,56,+37.383s,16,1064,2021-03-28
+4,4,Lando  Norris  NOR,McLaren Mercedes,56,+46.466s,12,1064,2021-03-28
+5,11,Sergio  Perez  PER,Red Bull Racing Honda,56,+52.047s,10,1064,2021-03-28
+6,16,Charles  Leclerc  LEC,Ferrari,56,+59.090s,8,1064,2021-03-28
+7,3,Daniel  Ricciardo  RIC,McLaren Mercedes,56,+66.004s,6,1064,2021-03-28
+8,55,Carlos  Sainz  SAI,Ferrari,56,+67.100s,4,1064,2021-03-28
+9,22,Yuki  Tsunoda  TSU,AlphaTauri Honda,56,+85.692s,2,1064,2021-03-28
+10,18,Lance  Stroll  STR,Aston Martin Mercedes,56,+86.713s,1,1064,2021-03-28
+11,7,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,56,+88.864s,0,1064,2021-03-28
+12,99,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,55,+1 lap,0,1064,2021-03-28
+13,31,Esteban  Ocon  OCO,Alpine Renault,55,+1 lap,0,1064,2021-03-28
+14,63,George  Russell  RUS,Williams Mercedes,55,+1 lap,0,1064,2021-03-28
+15,5,Sebastian  Vettel  VET,Aston Martin Mercedes,55,+1 lap,0,1064,2021-03-28
+16,47,Mick  Schumacher  MSC,Haas Ferrari,55,+1 lap,0,1064,2021-03-28
+17,10,Pierre  Gasly  GAS,AlphaTauri Honda,52,DNF,0,1064,2021-03-28
+18,6,Nicholas  Latifi  LAT,Williams Mercedes,51,DNF,0,1064,2021-03-28
+,14,Fernando  Alonso  ALO,Alpine Renault,32,DNF,0,1064,2021-03-28
+,9,Nikita  Mazepin  MAZ,Haas Ferrari,0,DNF,0,1064,2021-03-28
+1,44,Lewis  Hamilton  HAM,Mercedes,66,1:34:31.421,25,1066,2021-05-02
+2,33,Max  Verstappen  VER,Red Bull Racing Honda,66,+29.148s,18,1066,2021-05-02
+3,77,Valtteri  Bottas  BOT,Mercedes,66,+33.530s,16,1066,2021-05-02
+4,11,Sergio  Perez  PER,Red Bull Racing Honda,66,+39.735s,12,1066,2021-05-02
+5,4,Lando  Norris  NOR,McLaren Mercedes,66,+51.369s,10,1066,2021-05-02
+6,16,Charles  Leclerc  LEC,Ferrari,66,+55.781s,8,1066,2021-05-02
+7,31,Esteban  Ocon  OCO,Alpine Renault,66,+63.749s,6,1066,2021-05-02
+8,14,Fernando  Alonso  ALO,Alpine Renault,66,+64.808s,4,1066,2021-05-02
+9,3,Daniel  Ricciardo  RIC,McLaren Mercedes,66,+75.369s,2,1066,2021-05-02
+10,10,Pierre  Gasly  GAS,AlphaTauri Honda,66,+76.463s,1,1066,2021-05-02
+11,55,Carlos  Sainz  SAI,Ferrari,66,+78.955s,0,1066,2021-05-02
+12,99,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,65,+1 lap,0,1066,2021-05-02
+13,5,Sebastian  Vettel  VET,Aston Martin Mercedes,65,+1 lap,0,1066,2021-05-02
+14,18,Lance  Stroll  STR,Aston Martin Mercedes,65,+1 lap,0,1066,2021-05-02
+15,22,Yuki  Tsunoda  TSU,AlphaTauri Honda,65,+1 lap,0,1066,2021-05-02
+16,63,George  Russell  RUS,Williams Mercedes,65,+1 lap,0,1066,2021-05-02
+17,47,Mick  Schumacher  MSC,Haas Ferrari,64,+2 laps,0,1066,2021-05-02
+18,6,Nicholas  Latifi  LAT,Williams Mercedes,64,+2 laps,0,1066,2021-05-02
+19,9,Nikita  Mazepin  MAZ,Haas Ferrari,64,+2 laps,0,1066,2021-05-02
+,7,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,1,DNF,0,1066,2021-05-02
+1,44,Lewis  Hamilton  HAM,Mercedes,59,2:19:35.060,26,1053,2020-09-13
+2,77,Valtteri  Bottas  BOT,Mercedes,59,+4.880s,18,1053,2020-09-13
+3,23,Alexander  Albon  ALB,Red Bull Racing Honda,59,+8.064s,15,1053,2020-09-13
+4,3,Daniel  Ricciardo  RIC,Renault,59,+10.417s,12,1053,2020-09-13
+5,11,Sergio  Perez  PER,Racing Point BWT Mercedes,59,+15.650s,10,1053,2020-09-13
+6,4,Lando  Norris  NOR,McLaren Renault,59,+18.883s,8,1053,2020-09-13
+7,26,Daniil  Kvyat  KVY,AlphaTauri Honda,59,+21.756s,6,1053,2020-09-13
+8,16,Charles  Leclerc  LEC,Ferrari,59,+28.345s,4,1053,2020-09-13
+9,7,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,59,+29.770s,2,1053,2020-09-13
+10,5,Sebastian  Vettel  VET,Ferrari,59,+29.983s,1,1053,2020-09-13
+11,63,George  Russell  RUS,Williams Mercedes,59,+32.404s,0,1053,2020-09-13
+12,8,Romain  Grosjean  GRO,Haas Ferrari,59,+42.036s,0,1053,2020-09-13
+,18,Lance  Stroll  STR,Racing Point BWT Mercedes,42,DNF,0,1053,2020-09-13
+,31,Esteban  Ocon  OCO,Renault,7,DNF,0,1053,2020-09-13
+,6,Nicholas  Latifi  LAT,Williams Mercedes,6,DNF,0,1053,2020-09-13
+,20,Kevin  Magnussen  MAG,Haas Ferrari,5,DNF,0,1053,2020-09-13
+,99,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,5,DNF,0,1053,2020-09-13
+,55,Carlos  Sainz  SAI,McLaren Renault,5,DNF,0,1053,2020-09-13
+,33,Max  Verstappen  VER,Red Bull Racing Honda,0,DNF,0,1053,2020-09-13
+,10,Pierre  Gasly  GAS,AlphaTauri Honda,0,DNF,0,1053,2020-09-13
+1,44,Lewis  Hamilton  HAM,Mercedes,58,1:42:19.313,25,1058,2020-11-15
+2,11,Sergio  Perez  PER,Racing Point BWT Mercedes,58,+31.633s,18,1058,2020-11-15
+3,5,Sebastian  Vettel  VET,Ferrari,58,+31.960s,15,1058,2020-11-15
+4,16,Charles  Leclerc  LEC,Ferrari,58,+33.858s,12,1058,2020-11-15
+5,55,Carlos  Sainz  SAI,McLaren Renault,58,+34.363s,10,1058,2020-11-15
+6,33,Max  Verstappen  VER,Red Bull Racing Honda,58,+44.873s,8,1058,2020-11-15
+7,23,Alexander  Albon  ALB,Red Bull Racing Honda,58,+46.484s,6,1058,2020-11-15
+8,4,Lando  Norris  NOR,McLaren Renault,58,+61.259s,5,1058,2020-11-15
+9,18,Lance  Stroll  STR,Racing Point BWT Mercedes,58,+72.353s,2,1058,2020-11-15
+10,3,Daniel  Ricciardo  RIC,Renault,58,+95.460s,1,1058,2020-11-15
+11,31,Esteban  Ocon  OCO,Renault,57,+1 lap,0,1058,2020-11-15
+12,26,Daniil  Kvyat  KVY,AlphaTauri Honda,57,+1 lap,0,1058,2020-11-15
+13,10,Pierre  Gasly  GAS,AlphaTauri Honda,57,+1 lap,0,1058,2020-11-15
+14,77,Valtteri  Bottas  BOT,Mercedes,57,+1 lap,0,1058,2020-11-15
+15,7,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,57,+1 lap,0,1058,2020-11-15
+16,63,George  Russell  RUS,Williams Mercedes,57,+1 lap,0,1058,2020-11-15
+17,20,Kevin  Magnussen  MAG,Haas Ferrari,55,DNF,0,1058,2020-11-15
+,8,Romain  Grosjean  GRO,Haas Ferrari,49,DNF,0,1058,2020-11-15
+,6,Nicholas  Latifi  LAT,Williams Mercedes,39,DNF,0,1058,2020-11-15
+,99,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,11,DNF,0,1058,2020-11-15
+1,44,Lewis  Hamilton  HAM,Mercedes,66,1:31:45.279,25,1050,2020-08-16
+2,33,Max  Verstappen  VER,Red Bull Racing Honda,66,+24.177s,18,1050,2020-08-16
+3,77,Valtteri  Bottas  BOT,Mercedes,66,+44.752s,16,1050,2020-08-16
+4,18,Lance  Stroll  STR,Racing Point BWT Mercedes,65,+1 lap,12,1050,2020-08-16
+5,11,Sergio  Perez  PER,Racing Point BWT Mercedes,65,+1 lap,10,1050,2020-08-16
+6,55,Carlos  Sainz  SAI,McLaren Renault,65,+1 lap,8,1050,2020-08-16
+7,5,Sebastian  Vettel  VET,Ferrari,65,+1 lap,6,1050,2020-08-16
+8,23,Alexander  Albon  ALB,Red Bull Racing Honda,65,+1 lap,4,1050,2020-08-16
+9,10,Pierre  Gasly  GAS,AlphaTauri Honda,65,+1 lap,2,1050,2020-08-16
+10,4,Lando  Norris  NOR,McLaren Renault,65,+1 lap,1,1050,2020-08-16
+11,3,Daniel  Ricciardo  RIC,Renault,65,+1 lap,0,1050,2020-08-16
+12,26,Daniil  Kvyat  KVY,AlphaTauri Honda,65,+1 lap,0,1050,2020-08-16
+13,31,Esteban  Ocon  OCO,Renault,65,+1 lap,0,1050,2020-08-16
+14,7,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,65,+1 lap,0,1050,2020-08-16
+15,20,Kevin  Magnussen  MAG,Haas Ferrari,65,+1 lap,0,1050,2020-08-16
+16,99,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,65,+1 lap,0,1050,2020-08-16
+17,63,George  Russell  RUS,Williams Mercedes,65,+1 lap,0,1050,2020-08-16
+18,6,Nicholas  Latifi  LAT,Williams Mercedes,64,+2 laps,0,1050,2020-08-16
+19,8,Romain  Grosjean  GRO,Haas Ferrari,64,+2 laps,0,1050,2020-08-16
+,16,Charles  Leclerc  LEC,Ferrari,38,DNF,0,1050,2020-08-16
+1,33,Max  Verstappen  VER,Red Bull Racing Honda,55,1:36:28.645,25,1061,2020-12-13
+2,77,Valtteri  Bottas  BOT,Mercedes,55,+15.976s,18,1061,2020-12-13
+3,44,Lewis  Hamilton  HAM,Mercedes,55,+18.415s,15,1061,2020-12-13
+4,23,Alexander  Albon  ALB,Red Bull Racing Honda,55,+19.987s,12,1061,2020-12-13
+5,4,Lando  Norris  NOR,McLaren Renault,55,+60.729s,10,1061,2020-12-13
+6,55,Carlos  Sainz  SAI,McLaren Renault,55,+65.662s,8,1061,2020-12-13
+7,3,Daniel  Ricciardo  RIC,Renault,55,+73.748s,7,1061,2020-12-13
+8,10,Pierre  Gasly  GAS,AlphaTauri Honda,55,+89.718s,4,1061,2020-12-13
+9,31,Esteban  Ocon  OCO,Renault,55,+101.069s,2,1061,2020-12-13
+10,18,Lance  Stroll  STR,Racing Point BWT Mercedes,55,+102.738s,1,1061,2020-12-13
+11,26,Daniil  Kvyat  KVY,AlphaTauri Honda,54,+1 lap,0,1061,2020-12-13
+12,7,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,54,+1 lap,0,1061,2020-12-13
+13,16,Charles  Leclerc  LEC,Ferrari,54,+1 lap,0,1061,2020-12-13
+14,5,Sebastian  Vettel  VET,Ferrari,54,+1 lap,0,1061,2020-12-13
+15,63,George  Russell  RUS,Williams Mercedes,54,+1 lap,0,1061,2020-12-13
+16,99,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,54,+1 lap,0,1061,2020-12-13
+17,6,Nicholas  Latifi  LAT,Williams Mercedes,54,+1 lap,0,1061,2020-12-13
+18,20,Kevin  Magnussen  MAG,Haas Ferrari,54,+1 lap,0,1061,2020-12-13
+19,51,Pietro  Fittipaldi  FIT,Haas Ferrari,53,+2 laps,0,1061,2020-12-13
+,11,Sergio  Perez  PER,Racing Point BWT Mercedes,8,DNF,0,1061,2020-12-13
+1,10,Pierre  Gasly  GAS,AlphaTauri Honda,53,1:47:06.056,25,1052,2020-09-06
+2,55,Carlos  Sainz  SAI,McLaren Renault,53,+0.415s,18,1052,2020-09-06
+3,18,Lance  Stroll  STR,Racing Point BWT Mercedes,53,+3.358s,15,1052,2020-09-06
+4,4,Lando  Norris  NOR,McLaren Renault,53,+6.000s,12,1052,2020-09-06
+5,77,Valtteri  Bottas  BOT,Mercedes,53,+7.108s,10,1052,2020-09-06
+6,3,Daniel  Ricciardo  RIC,Renault,53,+8.391s,8,1052,2020-09-06
+7,44,Lewis  Hamilton  HAM,Mercedes,53,+17.245s,7,1052,2020-09-06
+8,31,Esteban  Ocon  OCO,Renault,53,+18.691s,4,1052,2020-09-06
+9,26,Daniil  Kvyat  KVY,AlphaTauri Honda,53,+22.208s,2,1052,2020-09-06
+10,11,Sergio  Perez  PER,Racing Point BWT Mercedes,53,+23.224s,1,1052,2020-09-06
+11,6,Nicholas  Latifi  LAT,Williams Mercedes,53,+32.876s,0,1052,2020-09-06
+12,8,Romain  Grosjean  GRO,Haas Ferrari,53,+35.164s,0,1052,2020-09-06
+13,7,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,53,+36.312s,0,1052,2020-09-06
+14,63,George  Russell  RUS,Williams Mercedes,53,+36.593s,0,1052,2020-09-06
+15,23,Alexander  Albon  ALB,Red Bull Racing Honda,53,+37.533s,0,1052,2020-09-06
+16,99,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,53,+55.199s,0,1052,2020-09-06
+,33,Max  Verstappen  VER,Red Bull Racing Honda,30,DNF,0,1052,2020-09-06
+,16,Charles  Leclerc  LEC,Ferrari,23,DNF,0,1052,2020-09-06
+,20,Kevin  Magnussen  MAG,Haas Ferrari,17,DNF,0,1052,2020-09-06
+,5,Sebastian  Vettel  VET,Ferrari,6,DNF,0,1052,2020-09-06
+1,44,Lewis  Hamilton  HAM,Mercedes,60,1:35:49.641,25,1055,2020-10-11
+2,33,Max  Verstappen  VER,Red Bull Racing Honda,60,+4.470s,19,1055,2020-10-11
+3,3,Daniel  Ricciardo  RIC,Renault,60,+14.613s,15,1055,2020-10-11
+4,11,Sergio  Perez  PER,Racing Point BWT Mercedes,60,+16.070s,12,1055,2020-10-11
+5,55,Carlos  Sainz  SAI,McLaren Renault,60,+21.905s,10,1055,2020-10-11
+6,10,Pierre  Gasly  GAS,AlphaTauri Honda,60,+22.766s,8,1055,2020-10-11
+7,16,Charles  Leclerc  LEC,Ferrari,60,+30.814s,6,1055,2020-10-11
+8,27,Nico  Hulkenberg  HUL,Racing Point BWT Mercedes,60,+32.596s,4,1055,2020-10-11
+9,8,Romain  Grosjean  GRO,Haas Ferrari,60,+39.081s,2,1055,2020-10-11
+10,99,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,60,+40.035s,1,1055,2020-10-11
+11,5,Sebastian  Vettel  VET,Ferrari,60,+40.810s,0,1055,2020-10-11
+12,7,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,60,+41.476s,0,1055,2020-10-11
+13,20,Kevin  Magnussen  MAG,Haas Ferrari,60,+49.585s,0,1055,2020-10-11
+14,6,Nicholas  Latifi  LAT,Williams Mercedes,60,+54.449s,0,1055,2020-10-11
+15,26,Daniil  Kvyat  KVY,AlphaTauri Honda,60,+55.588s,0,1055,2020-10-11
+,4,Lando  Norris  NOR,McLaren Renault,42,DNF,0,1055,2020-10-11
+,23,Alexander  Albon  ALB,Red Bull Racing Honda,23,DNF,0,1055,2020-10-11
+,31,Esteban  Ocon  OCO,Renault,22,DNF,0,1055,2020-10-11
+,77,Valtteri  Bottas  BOT,Mercedes,18,DNF,0,1055,2020-10-11
+,63,George  Russell  RUS,Williams Mercedes,12,DNF,0,1055,2020-10-11
+1,44,Lewis  Hamilton  HAM,Mercedes,52,1:28:01.283,25,1048,2020-08-02
+2,33,Max  Verstappen  VER,Red Bull Racing Honda,52,+5.856s,19,1048,2020-08-02
+3,16,Charles  Leclerc  LEC,Ferrari,52,+18.474s,15,1048,2020-08-02
+4,3,Daniel  Ricciardo  RIC,Renault,52,+19.650s,12,1048,2020-08-02
+5,4,Lando  Norris  NOR,McLaren Renault,52,+22.277s,10,1048,2020-08-02
+6,31,Esteban  Ocon  OCO,Renault,52,+26.937s,8,1048,2020-08-02
+7,10,Pierre  Gasly  GAS,AlphaTauri Honda,52,+31.188s,6,1048,2020-08-02
+8,23,Alexander  Albon  ALB,Red Bull Racing Honda,52,+32.670s,4,1048,2020-08-02
+9,18,Lance  Stroll  STR,Racing Point BWT Mercedes,52,+37.311s,2,1048,2020-08-02
+10,5,Sebastian  Vettel  VET,Ferrari,52,+41.857s,1,1048,2020-08-02
+11,77,Valtteri  Bottas  BOT,Mercedes,52,+42.167s,0,1048,2020-08-02
+12,63,George  Russell  RUS,Williams Mercedes,52,+52.004s,0,1048,2020-08-02
+13,55,Carlos  Sainz  SAI,McLaren Renault,52,+53.370s,0,1048,2020-08-02
+14,99,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,52,+54.205s,0,1048,2020-08-02
+15,6,Nicholas  Latifi  LAT,Williams Mercedes,52,+54.549s,0,1048,2020-08-02
+16,8,Romain  Grosjean  GRO,Haas Ferrari,52,+55.050s,0,1048,2020-08-02
+17,7,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,51,+1 lap,0,1048,2020-08-02
+,26,Daniil  Kvyat  KVY,AlphaTauri Honda,11,DNF,0,1048,2020-08-02
+,20,Kevin  Magnussen  MAG,Haas Ferrari,1,DNF,0,1048,2020-08-02
+,27,Nico  Hulkenberg  HUL,Racing Point BWT Mercedes,0,DNS,0,1048,2020-08-02
+1,44,Lewis  Hamilton  HAM,Mercedes,57,2:59:47.515,25,1059,2020-11-29
+2,33,Max  Verstappen  VER,Red Bull Racing Honda,57,+1.254s,19,1059,2020-11-29
+3,23,Alexander  Albon  ALB,Red Bull Racing Honda,57,+8.005s,15,1059,2020-11-29
+4,4,Lando  Norris  NOR,McLaren Renault,57,+11.337s,12,1059,2020-11-29
+5,55,Carlos  Sainz  SAI,McLaren Renault,57,+11.787s,10,1059,2020-11-29
+6,10,Pierre  Gasly  GAS,AlphaTauri Honda,57,+11.942s,8,1059,2020-11-29
+7,3,Daniel  Ricciardo  RIC,Renault,57,+19.368s,6,1059,2020-11-29
+8,77,Valtteri  Bottas  BOT,Mercedes,57,+19.680s,4,1059,2020-11-29
+9,31,Esteban  Ocon  OCO,Renault,57,+22.803s,2,1059,2020-11-29
+10,16,Charles  Leclerc  LEC,Ferrari,56,+1 lap,1,1059,2020-11-29
+11,26,Daniil  Kvyat  KVY,AlphaTauri Honda,56,+1 lap,0,1059,2020-11-29
+12,63,George  Russell  RUS,Williams Mercedes,56,+1 lap,0,1059,2020-11-29
+13,5,Sebastian  Vettel  VET,Ferrari,56,+1 lap,0,1059,2020-11-29
+14,6,Nicholas  Latifi  LAT,Williams Mercedes,56,+1 lap,0,1059,2020-11-29
+15,7,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,56,+1 lap,0,1059,2020-11-29
+16,99,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,56,+1 lap,0,1059,2020-11-29
+17,20,Kevin  Magnussen  MAG,Haas Ferrari,56,+1 lap,0,1059,2020-11-29
+18,11,Sergio  Perez  PER,Racing Point BWT Mercedes,53,DNF,0,1059,2020-11-29
+,18,Lance  Stroll  STR,Racing Point BWT Mercedes,2,DNF,0,1059,2020-11-29
+,8,Romain  Grosjean  GRO,Haas Ferrari,0,DNF,0,1059,2020-11-29
+1,44,Lewis  Hamilton  HAM,Mercedes,63,1:28:32.430,26,1057,2020-11-01
+2,77,Valtteri  Bottas  BOT,Mercedes,63,+5.783s,18,1057,2020-11-01
+3,3,Daniel  Ricciardo  RIC,Renault,63,+14.320s,15,1057,2020-11-01
+4,26,Daniil  Kvyat  KVY,AlphaTauri Honda,63,+15.141s,12,1057,2020-11-01
+5,16,Charles  Leclerc  LEC,Ferrari,63,+19.111s,10,1057,2020-11-01
+6,11,Sergio  Perez  PER,Racing Point BWT Mercedes,63,+19.652s,8,1057,2020-11-01
+7,55,Carlos  Sainz  SAI,McLaren Renault,63,+20.230s,6,1057,2020-11-01
+8,4,Lando  Norris  NOR,McLaren Renault,63,+21.131s,4,1057,2020-11-01
+9,7,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,63,+22.224s,2,1057,2020-11-01
+10,99,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,63,+26.398s,1,1057,2020-11-01
+11,6,Nicholas  Latifi  LAT,Williams Mercedes,63,+27.135s,0,1057,2020-11-01
+12,5,Sebastian  Vettel  VET,Ferrari,63,+28.453s,0,1057,2020-11-01
+13,18,Lance  Stroll  STR,Racing Point BWT Mercedes,63,+29.163s,0,1057,2020-11-01
+14,8,Romain  Grosjean  GRO,Haas Ferrari,63,+32.935s,0,1057,2020-11-01
+15,23,Alexander  Albon  ALB,Red Bull Racing Honda,63,+57.284s,0,1057,2020-11-01
+,63,George  Russell  RUS,Williams Mercedes,51,DNF,0,1057,2020-11-01
+,33,Max  Verstappen  VER,Red Bull Racing Honda,50,DNF,0,1057,2020-11-01
+,20,Kevin  Magnussen  MAG,Haas Ferrari,47,DNF,0,1057,2020-11-01
+,31,Esteban  Ocon  OCO,Renault,27,DNF,0,1057,2020-11-01
+,10,Pierre  Gasly  GAS,AlphaTauri Honda,8,DNF,0,1057,2020-11-01
+1,44,Lewis  Hamilton  HAM,Mercedes,71,1:22:50.683,25,1046,2020-07-12
+2,77,Valtteri  Bottas  BOT,Mercedes,71,+13.719s,18,1046,2020-07-12
+3,33,Max  Verstappen  VER,Red Bull Racing Honda,71,+33.698s,15,1046,2020-07-12
+4,23,Alexander  Albon  ALB,Red Bull Racing Honda,71,+44.400s,12,1046,2020-07-12
+5,4,Lando  Norris  NOR,McLaren Renault,71,+61.470s,10,1046,2020-07-12
+6,11,Sergio  Perez  PER,Racing Point BWT Mercedes,71,+62.387s,8,1046,2020-07-12
+7,18,Lance  Stroll  STR,Racing Point BWT Mercedes,71,+62.453s,6,1046,2020-07-12
+8,3,Daniel  Ricciardo  RIC,Renault,71,+62.591s,4,1046,2020-07-12
+9,55,Carlos  Sainz  SAI,McLaren Renault,70,+1 lap,3,1046,2020-07-12
+10,26,Daniil  Kvyat  KVY,AlphaTauri Honda,70,+1 lap,1,1046,2020-07-12
+11,7,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,70,+1 lap,0,1046,2020-07-12
+12,20,Kevin  Magnussen  MAG,Haas Ferrari,70,+1 lap,0,1046,2020-07-12
+13,8,Romain  Grosjean  GRO,Haas Ferrari,70,+1 lap,0,1046,2020-07-12
+14,99,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,70,+1 lap,0,1046,2020-07-12
+15,10,Pierre  Gasly  GAS,AlphaTauri Honda,70,+1 lap,0,1046,2020-07-12
+16,63,George  Russell  RUS,Williams Mercedes,69,+2 laps,0,1046,2020-07-12
+17,6,Nicholas  Latifi  LAT,Williams Mercedes,69,+2 laps,0,1046,2020-07-12
+,31,Esteban  Ocon  OCO,Renault,25,DNF,0,1046,2020-07-12
+,16,Charles  Leclerc  LEC,Ferrari,4,DNF,0,1046,2020-07-12
+,5,Sebastian  Vettel  VET,Ferrari,1,DNF,0,1046,2020-07-12
+1,44,Lewis  Hamilton  HAM,Mercedes,70,1:36:12.473,26,1047,2020-07-19
+2,33,Max  Verstappen  VER,Red Bull Racing Honda,70,+8.702s,18,1047,2020-07-19
+3,77,Valtteri  Bottas  BOT,Mercedes,70,+9.452s,15,1047,2020-07-19
+4,18,Lance  Stroll  STR,Racing Point BWT Mercedes,70,+57.579s,12,1047,2020-07-19
+5,23,Alexander  Albon  ALB,Red Bull Racing Honda,70,+78.316s,10,1047,2020-07-19
+6,5,Sebastian  Vettel  VET,Ferrari,69,+1 lap,8,1047,2020-07-19
+7,11,Sergio  Perez  PER,Racing Point BWT Mercedes,69,+1 lap,6,1047,2020-07-19
+8,3,Daniel  Ricciardo  RIC,Renault,69,+1 lap,4,1047,2020-07-19
+9,55,Carlos  Sainz  SAI,McLaren Renault,69,+1 lap,2,1047,2020-07-19
+10,20,Kevin  Magnussen  MAG,Haas Ferrari,69,+1 lap,1,1047,2020-07-19
+11,16,Charles  Leclerc  LEC,Ferrari,69,+1 lap,0,1047,2020-07-19
+12,26,Daniil  Kvyat  KVY,AlphaTauri Honda,69,+1 lap,0,1047,2020-07-19
+13,4,Lando  Norris  NOR,McLaren Renault,69,+1 lap,0,1047,2020-07-19
+14,31,Esteban  Ocon  OCO,Renault,69,+1 lap,0,1047,2020-07-19
+15,7,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,69,+1 lap,0,1047,2020-07-19
+16,8,Romain  Grosjean  GRO,Haas Ferrari,69,+1 lap,0,1047,2020-07-19
+17,99,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,69,+1 lap,0,1047,2020-07-19
+18,63,George  Russell  RUS,Williams Mercedes,69,+1 lap,0,1047,2020-07-19
+19,6,Nicholas  Latifi  LAT,Williams Mercedes,65,+5 laps,0,1047,2020-07-19
+,10,Pierre  Gasly  GAS,AlphaTauri Honda,15,DNF,0,1047,2020-07-19
+1,44,Lewis  Hamilton  HAM,Mercedes,66,1:29:56.828,26,1056,2020-10-25
+2,77,Valtteri  Bottas  BOT,Mercedes,66,+25.592s,18,1056,2020-10-25
+3,33,Max  Verstappen  VER,Red Bull Racing Honda,66,+34.508s,15,1056,2020-10-25
+4,16,Charles  Leclerc  LEC,Ferrari,66,+65.312s,12,1056,2020-10-25
+5,10,Pierre  Gasly  GAS,AlphaTauri Honda,65,+1 lap,10,1056,2020-10-25
+6,55,Carlos  Sainz  SAI,McLaren Renault,65,+1 lap,8,1056,2020-10-25
+7,11,Sergio  Perez  PER,Racing Point BWT Mercedes,65,+1 lap,6,1056,2020-10-25
+8,31,Esteban  Ocon  OCO,Renault,65,+1 lap,4,1056,2020-10-25
+9,3,Daniel  Ricciardo  RIC,Renault,65,+1 lap,2,1056,2020-10-25
+10,5,Sebastian  Vettel  VET,Ferrari,65,+1 lap,1,1056,2020-10-25
+11,7,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,65,+1 lap,0,1056,2020-10-25
+12,23,Alexander  Albon  ALB,Red Bull Racing Honda,65,+1 lap,0,1056,2020-10-25
+13,4,Lando  Norris  NOR,McLaren Renault,65,+1 lap,0,1056,2020-10-25
+14,63,George  Russell  RUS,Williams Mercedes,65,+1 lap,0,1056,2020-10-25
+15,99,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,65,+1 lap,0,1056,2020-10-25
+16,20,Kevin  Magnussen  MAG,Haas Ferrari,65,+1 lap,0,1056,2020-10-25
+17,8,Romain  Grosjean  GRO,Haas Ferrari,65,+1 lap,0,1056,2020-10-25
+18,6,Nicholas  Latifi  LAT,Williams Mercedes,64,+2 laps,0,1056,2020-10-25
+19,26,Daniil  Kvyat  KVY,AlphaTauri Honda,64,+2 laps,0,1056,2020-10-25
+,18,Lance  Stroll  STR,Racing Point BWT Mercedes,51,DNF,0,1056,2020-10-25
+1,33,Max  Verstappen  VER,Red Bull Racing Honda,52,1:19:41.993,25,1049,2020-08-09
+2,44,Lewis  Hamilton  HAM,Mercedes,52,+11.326s,19,1049,2020-08-09
+3,77,Valtteri  Bottas  BOT,Mercedes,52,+19.231s,15,1049,2020-08-09
+4,16,Charles  Leclerc  LEC,Ferrari,52,+29.289s,12,1049,2020-08-09
+5,23,Alexander  Albon  ALB,Red Bull Racing Honda,52,+39.146s,10,1049,2020-08-09
+6,18,Lance  Stroll  STR,Racing Point BWT Mercedes,52,+42.538s,8,1049,2020-08-09
+7,27,Nico  Hulkenberg  HUL,Racing Point BWT Mercedes,52,+55.951s,6,1049,2020-08-09
+8,31,Esteban  Ocon  OCO,Renault,52,+64.773s,4,1049,2020-08-09
+9,4,Lando  Norris  NOR,McLaren Renault,52,+65.544s,2,1049,2020-08-09
+10,26,Daniil  Kvyat  KVY,AlphaTauri Honda,52,+69.669s,1,1049,2020-08-09
+11,10,Pierre  Gasly  GAS,AlphaTauri Honda,52,+70.642s,0,1049,2020-08-09
+12,5,Sebastian  Vettel  VET,Ferrari,52,+73.370s,0,1049,2020-08-09
+13,55,Carlos  Sainz  SAI,McLaren Renault,52,+74.070s,0,1049,2020-08-09
+14,3,Daniel  Ricciardo  RIC,Renault,51,+1 lap,0,1049,2020-08-09
+15,7,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,51,+1 lap,0,1049,2020-08-09
+16,8,Romain  Grosjean  GRO,Haas Ferrari,51,+1 lap,0,1049,2020-08-09
+17,99,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,51,+1 lap,0,1049,2020-08-09
+18,63,George  Russell  RUS,Williams Mercedes,51,+1 lap,0,1049,2020-08-09
+19,6,Nicholas  Latifi  LAT,Williams Mercedes,51,+1 lap,0,1049,2020-08-09
+,20,Kevin  Magnussen  MAG,Haas Ferrari,43,DNF,0,1049,2020-08-09
+1,11,Sergio  Perez  PER,Racing Point BWT Mercedes,87,1:31:15.114,25,1060,2020-12-06
+2,31,Esteban  Ocon  OCO,Renault,87,+10.518s,18,1060,2020-12-06
+3,18,Lance  Stroll  STR,Racing Point BWT Mercedes,87,+11.869s,15,1060,2020-12-06
+4,55,Carlos  Sainz  SAI,McLaren Renault,87,+12.580s,12,1060,2020-12-06
+5,3,Daniel  Ricciardo  RIC,Renault,87,+13.330s,10,1060,2020-12-06
+6,23,Alexander  Albon  ALB,Red Bull Racing Honda,87,+13.842s,8,1060,2020-12-06
+7,26,Daniil  Kvyat  KVY,AlphaTauri Honda,87,+14.534s,6,1060,2020-12-06
+8,77,Valtteri  Bottas  BOT,Mercedes,87,+15.389s,4,1060,2020-12-06
+9,63,George  Russell  RUS,Mercedes,87,+18.556s,3,1060,2020-12-06
+10,4,Lando  Norris  NOR,McLaren Renault,87,+19.541s,1,1060,2020-12-06
+11,10,Pierre  Gasly  GAS,AlphaTauri Honda,87,+20.527s,0,1060,2020-12-06
+12,5,Sebastian  Vettel  VET,Ferrari,87,+22.611s,0,1060,2020-12-06
+13,99,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,87,+24.111s,0,1060,2020-12-06
+14,7,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,87,+26.153s,0,1060,2020-12-06
+15,20,Kevin  Magnussen  MAG,Haas Ferrari,87,+32.370s,0,1060,2020-12-06
+16,89,Jack  Aitken  AIT,Williams Mercedes,87,+33.674s,0,1060,2020-12-06
+17,51,Pietro  Fittipaldi  FIT,Haas Ferrari,87,+36.858s,0,1060,2020-12-06
+,6,Nicholas  Latifi  LAT,Williams Mercedes,52,DNF,0,1060,2020-12-06
+,33,Max  Verstappen  VER,Red Bull Racing Honda,0,DNF,0,1060,2020-12-06
+,16,Charles  Leclerc  LEC,Ferrari,0,DNF,0,1060,2020-12-06
+1,77,Valtteri  Bottas  BOT,Mercedes,71,1:30:55.739,25,1045,2020-07-05
+2,16,Charles  Leclerc  LEC,Ferrari,71,+2.700s,18,1045,2020-07-05
+3,4,Lando  Norris  NOR,McLaren Renault,71,+5.491s,16,1045,2020-07-05
+4,44,Lewis  Hamilton  HAM,Mercedes,71,+5.689s,12,1045,2020-07-05
+5,55,Carlos  Sainz  SAI,McLaren Renault,71,+8.903s,10,1045,2020-07-05
+6,11,Sergio  Perez  PER,Racing Point BWT Mercedes,71,+15.092s,8,1045,2020-07-05
+7,10,Pierre  Gasly  GAS,AlphaTauri Honda,71,+16.682s,6,1045,2020-07-05
+8,31,Esteban  Ocon  OCO,Renault,71,+17.456s,4,1045,2020-07-05
+9,99,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,71,+21.146s,2,1045,2020-07-05
+10,5,Sebastian  Vettel  VET,Ferrari,71,+24.545s,1,1045,2020-07-05
+11,6,Nicholas  Latifi  LAT,Williams Mercedes,71,+31.650s,0,1045,2020-07-05
+12,26,Daniil  Kvyat  KVY,AlphaTauri Honda,69,DNF,0,1045,2020-07-05
+13,23,Alexander  Albon  ALB,Red Bull Racing Honda,67,DNF,0,1045,2020-07-05
+,7,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,53,DNF,0,1045,2020-07-05
+,63,George  Russell  RUS,Williams Mercedes,49,DNF,0,1045,2020-07-05
+,8,Romain  Grosjean  GRO,Haas Ferrari,49,DNF,0,1045,2020-07-05
+,20,Kevin  Magnussen  MAG,Haas Ferrari,24,DNF,0,1045,2020-07-05
+,18,Lance  Stroll  STR,Racing Point BWT Mercedes,20,DNF,0,1045,2020-07-05
+,3,Daniel  Ricciardo  RIC,Renault,17,DNF,0,1045,2020-07-05
+,33,Max  Verstappen  VER,Red Bull Racing Honda,11,DNF,0,1045,2020-07-05
+1,44,Lewis  Hamilton  HAM,Mercedes,44,1:24:08.761,25,1051,2020-08-30
+2,77,Valtteri  Bottas  BOT,Mercedes,44,+8.448s,18,1051,2020-08-30
+3,33,Max  Verstappen  VER,Red Bull Racing Honda,44,+15.455s,15,1051,2020-08-30
+4,3,Daniel  Ricciardo  RIC,Renault,44,+18.877s,13,1051,2020-08-30
+5,31,Esteban  Ocon  OCO,Renault,44,+40.650s,10,1051,2020-08-30
+6,23,Alexander  Albon  ALB,Red Bull Racing Honda,44,+42.712s,8,1051,2020-08-30
+7,4,Lando  Norris  NOR,McLaren Renault,44,+43.774s,6,1051,2020-08-30
+8,10,Pierre  Gasly  GAS,AlphaTauri Honda,44,+47.371s,4,1051,2020-08-30
+9,18,Lance  Stroll  STR,Racing Point BWT Mercedes,44,+52.603s,2,1051,2020-08-30
+10,11,Sergio  Perez  PER,Racing Point BWT Mercedes,44,+53.179s,1,1051,2020-08-30
+11,26,Daniil  Kvyat  KVY,AlphaTauri Honda,44,+70.200s,0,1051,2020-08-30
+12,7,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,44,+71.504s,0,1051,2020-08-30
+13,5,Sebastian  Vettel  VET,Ferrari,44,+72.894s,0,1051,2020-08-30
+14,16,Charles  Leclerc  LEC,Ferrari,44,+74.920s,0,1051,2020-08-30
+15,8,Romain  Grosjean  GRO,Haas Ferrari,44,+76.793s,0,1051,2020-08-30
+16,6,Nicholas  Latifi  LAT,Williams Mercedes,44,+77.795s,0,1051,2020-08-30
+17,20,Kevin  Magnussen  MAG,Haas Ferrari,44,+85.540s,0,1051,2020-08-30
+,99,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,9,DNF,0,1051,2020-08-30
+,63,George  Russell  RUS,Williams Mercedes,9,DNF,0,1051,2020-08-30
+,55,Carlos  Sainz  SAI,McLaren Renault,0,DNS,0,1051,2020-08-30
+1,77,Valtteri  Bottas  BOT,Mercedes,53,1:34:00.364,26,1054,2020-09-27
+2,33,Max  Verstappen  VER,Red Bull Racing Honda,53,+7.729s,18,1054,2020-09-27
+3,44,Lewis  Hamilton  HAM,Mercedes,53,+22.729s,15,1054,2020-09-27
+4,11,Sergio  Perez  PER,Racing Point BWT Mercedes,53,+30.558s,12,1054,2020-09-27
+5,3,Daniel  Ricciardo  RIC,Renault,53,+52.065s,10,1054,2020-09-27
+6,16,Charles  Leclerc  LEC,Ferrari,53,+62.186s,8,1054,2020-09-27
+7,31,Esteban  Ocon  OCO,Renault,53,+68.006s,6,1054,2020-09-27
+8,26,Daniil  Kvyat  KVY,AlphaTauri Honda,53,+68.740s,4,1054,2020-09-27
+9,10,Pierre  Gasly  GAS,AlphaTauri Honda,53,+89.766s,2,1054,2020-09-27
+10,23,Alexander  Albon  ALB,Red Bull Racing Honda,53,+97.860s,1,1054,2020-09-27
+11,99,Antonio  Giovinazzi  GIO,Alfa Romeo Racing Ferrari,52,+1 lap,0,1054,2020-09-27
+12,20,Kevin  Magnussen  MAG,Haas Ferrari,52,+1 lap,0,1054,2020-09-27
+13,5,Sebastian  Vettel  VET,Ferrari,52,+1 lap,0,1054,2020-09-27
+14,7,Kimi  Räikkönen  RAI,Alfa Romeo Racing Ferrari,52,+1 lap,0,1054,2020-09-27
+15,4,Lando  Norris  NOR,McLaren Renault,52,+1 lap,0,1054,2020-09-27
+16,6,Nicholas  Latifi  LAT,Williams Mercedes,52,+1 lap,0,1054,2020-09-27
+17,8,Romain  Grosjean  GRO,Haas Ferrari,52,+1 lap,0,1054,2020-09-27
+18,63,George  Russell  RUS,Williams Mercedes,52,+1 lap,0,1054,2020-09-27
+,55,Carlos  Sainz  SAI,McLaren Renault,0,DNF,0,1054,2020-09-27
+,18,Lance  Stroll  STR,Racing Point BWT Mercedes,0,DNF,0,1054,2020-09-27
