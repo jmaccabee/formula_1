@@ -89,4 +89,3 @@ def update_stats():
                 index=False,
             )
             
-
